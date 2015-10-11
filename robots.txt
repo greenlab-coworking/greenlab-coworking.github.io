@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://greenlab-coworking.github.io/sitemap.xml 
