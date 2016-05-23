@@ -1,0 +1,70 @@
+<div id="top-navigation" class="col-md-12">
+  <div class="container">
+    <ul class="list-inline list-unstyled">
+      <li>
+        <a href="https://twitter.com/greenlabcowork" target="_blank">Twitter</a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/GreenlabCoworking/" target="_blank">Facebook</a>
+      </li>
+      <li>
+        <a href="https://fr.foursquare.com/v/greenlab-coworking/54a6bcf6498ee74ea1835368" target="_blank">Foursquare</a>
+      </li>
+      <li>
+        <a href="{{ site.subscribe_rss }}">RSS</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="container">
+  <h4 id="site-title" itemprop="headline">
+    <a href="{{ root_url }}/">{{ site.title }}</a>
+  </h4>
+
+  <nav class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle" title="toggle navbar" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
+      </div>
+
+      <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+          {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% assign url = page.url|remove:'index.html' %}
+            {% if url == link.url or page.layout == link.layout %}
+              {% assign current = 'active' %}
+            {% endif %}
+
+            <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+              <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+            </li>
+          {% endfor %}
+          </ul>
+          {% if site.simple_search %}
+              <form class="navbar-form navbar-right" action="{{ site.simple_search }}" method="GET">
+                  <input type="hidden" name="sitesearch" value="{{ site.url | shorthand_url }}">
+                  <div class="form-group">
+                      <input class="form-control" type="text" name="q" placeholder="Search">
+                  </div>
+              </form>
+          {% endif %}
+      </div>
+  </nav>
+</div>
+
+<div id="pattern">
+  <div class="container">
+    <p class="lead text-center">Greenlab Coworking est un espace de 200m² dédiés aux entrepreneurs, aux créatifs, et à tous ceux qui souhaitent travailler seul, mais accompagné.</p>
+<!--     <div id="call-to-action">
+        <a class="btn btn-default">En savoir plus</a>
+    </div> -->
+    <div id="pattern-bottom"></div>
+  </div>
+</div>
+
