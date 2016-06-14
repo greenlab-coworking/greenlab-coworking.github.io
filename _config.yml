@@ -112,8 +112,8 @@ navigation:
 - text: Nous contacter
   url: /nous-contacter/
   # layout: post
-- text: Archives
-  url: /blog/archives/
+# - text: Archives
+#   url: /blog/archives/
 
 
 category_title_prefix: "Catégorie : "
