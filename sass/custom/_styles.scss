@@ -14,9 +14,69 @@ html, body {
   padding: 0 0 60px;
 }
 
-/* Set the fixed height of the footer here */
-footer[role=contentinfo] {
-    height: 60px;
+#top-navigation{
+  background: #333;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  ul{
+    float: right;
+    li{
+      a{
+        color: white;
+      }
+    }
+  }
+}
+
+#site-title{
+  float: left;
+  a{
+    background-image: url(/images/greenlab.png);
+    background-repeat: no-repeat;
+    height: 95px;
+    width: 463px;
+    display: block;
+    text-indent: -9999em;
+  }
+}
+
+.navbar{
+  &.navbar-default{
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    float: right;
+    margin-top: 50px;
+  }
+}
+
+#pattern{
+  margin: 50px 0;
+  padding: 25px 0;
+  position: relative;
+  &:after{
+    content: "";
+    background-image: url(/images/pattern.png);
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+  }
+  p{
+    margin: 0;
+  }
+}
+
+#page-footer{
+  background-color: $greenlab-green;
+  #map{
+    height: 250px;
+  }
 }
 
 /* print page content only no header, footer and asides, works with any page layout */

@@ -1,3 +1,12 @@
+.oneline {
+  white-space:nowrap;
+  overflow:hidden;
+}
+
+.clearfix{
+  clear: both;
+}
+
 @for $i from 0 through 15{
   .mb#{$i*5}{
     margin-bottom: #{$i*5}px !important;

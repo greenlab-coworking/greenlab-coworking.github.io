@@ -61,13 +61,15 @@ navbar: Blog
         </div>
         <div class="col-md-8">
           <h3>Sur le blog</h3>
-            <ul>
+            <ul class="list-unstyled">
             {% for post in site.posts limit:5 %}
             {% assign content = post.content %}
-              <li>
-                <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-                  {% include post/date.html %}{{ time }}
-                  <h4 class="entry-title" itemprop="name headline"><a href="{{ root_url }}{{ post.url }}" itemprop="url">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h2>
+              <li class="clearfix">
+                <article class="post pull-left" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+                  <span class="pull-left mt10 mr10">
+                    {% include post/date.html %}{{ time }}
+                  </span>
+                  <h4 class="entry-title pull-left oneline" itemprop="name headline"><a href="{{ root_url }}{{ post.url }}" itemprop="url">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h2>
                 </article>
               </li>
             {% endfor %}
