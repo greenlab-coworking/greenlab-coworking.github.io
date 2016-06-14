@@ -3,7 +3,7 @@ var map = L.map('map').setView([49.64882,5.82359], 11);
 
 // Set up the OSM layer
 L.tileLayer(
-    'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    'https://api.mapbox.com/styles/v1/cedricgreenlabcoworking/cipe33k7l007ldima6fw52u4p/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiY2VkcmljZ3JlZW5sYWJjb3dvcmtpbmciLCJhIjoiY2lwZTJ3cWg3MDAxbnV5bmYwbmFrNDlrbiJ9.Q8oeuC2Rns5LZnmWzbI9qA',
     {maxZoom: 18}).addTo(map);
 
 // add a marker in the given location
