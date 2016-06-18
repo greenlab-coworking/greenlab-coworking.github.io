@@ -104,6 +104,9 @@ facebook_like: false
 navigation:
 - text: Accueil
   url: /
+- text: Tarifs
+  url: /tarifs/
+  layout: page
 - text: Blog
   url: /blog/
 - text: Nos partenaires
