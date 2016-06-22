@@ -1,6 +1,14 @@
+.ar{ text-align: right }
+.al{ text-align: left }
+.ac{ text-align: center }
+
 .oneline {
   white-space:nowrap;
   overflow:hidden;
+}
+
+.text-l{
+  font-size: 0.9em;
 }
 
 .clearfix{

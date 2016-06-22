@@ -1,0 +1,80 @@
+.crowdfunders-list{
+  border-top: 1px solid #EEE;
+  .crowdfunders{
+    padding: 20px 5px;
+    border-color: #EEE !important;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    a{
+      display: block;
+      cursor: pointer;
+      padding: 20px 5px;
+      margin: -20px -5px;
+      strong{
+        &:after{
+          content: "\f14c";
+          font-family: FontAwesome;
+          font-style: normal;
+          font-weight: normal;
+          text-decoration: inherit;
+          padding-left: 5px;
+        }
+      }
+      img{
+        margin: auto;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+      }
+    }
+    &:last-child{
+      border-right: 1px solid;
+    }
+
+    @media (min-width: 992px){
+      &:first-child,
+      &:nth-child(4n+1){
+      }
+      &:nth-child(4n){
+       border-right: 1px solid;
+      }
+    }
+    @media (min-width: 768px) and (max-width: 992px){
+      &:nth-child(3n){
+       border-right: 1px solid;
+      }
+    }
+    @media (max-width: 768px){
+      &:nth-child(2n){
+       border-right: 1px solid;
+      }
+    }
+
+    .fa{
+      color: rgba(144,183,73,0.2);
+      margin-bottom: 20px;
+    }
+    strong{
+      color: #999;
+    }
+
+    &:hover{
+      background: #EEE;
+      .fa{
+        color: rgba(144,183,73,0.8);
+      }
+      strong{
+        color: #444;
+      }
+      a{
+        text-decoration: none;
+      }
+      img{
+        filter: none;
+        -webkit-filter: none;
+      }
+    }
+  }
+}

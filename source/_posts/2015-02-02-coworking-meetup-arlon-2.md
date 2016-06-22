@@ -27,7 +27,7 @@ Ce lundi 09 février, dès 19 h, nous vous proposons **un second Coworking Meet
 
 
 
-L&#8217;événement est bien entendu gratuit. Toutefois, une inscription est souhaitée afin d&#8217;organiser au mieux cette rencontre.
+L'événement est bien entendu gratuit. Toutefois, une inscription est souhaitée afin d'organiser au mieux cette rencontre.
 
 Que vous soyez déjà convaincu ou simplement curieux, n’hésitez pas. Nous vous accueillerons et répondrons à toutes vos questions avec plaisir ! :-)
 
@@ -35,6 +35,6 @@ Que vous soyez déjà convaincu ou simplement curieux, n’hésitez pas. Nous vo
 
 <div style="width:100%; text-align:left;" >
   <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
-    <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Gestion d&#8217;un événement</a><span style="color:#ddd;"> pour </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.fr/e/billets-coworking-meetup-arlon-15596598847?ref=etckt">Coworking Meetup Arlon</a> <span style="color:#ddd;">réalisé par</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a>
+    <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Gestion d'un événement</a><span style="color:#ddd;"> pour </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.fr/e/billets-coworking-meetup-arlon-15596598847?ref=etckt">Coworking Meetup Arlon</a> <span style="color:#ddd;">réalisé par</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a>
   </div>
 </div>

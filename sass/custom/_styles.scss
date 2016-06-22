@@ -14,10 +14,17 @@ html, body {
   padding: 0 0 60px;
 }
 
+@media (min-width: 1200px){
+  .container {
+      width: 1000px;
+  }
+}
+
 #top-navigation{
-  background: #333;
+  background: #555;
   padding-top: 10px;
   margin-bottom: 20px;
+  border-bottom: 2px solid #454545;
   ul{
     float: right;
     li{
@@ -25,6 +32,26 @@ html, body {
         color: white;
       }
     }
+  }
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a{
+  background: transparent;
+  box-shadow: none;
+  border-bottom: 2px solid transparent;
+  &:hover{
+    background: transparent;
+    border-bottom: 2px solid #e5e5e5;
+  }
+  &.active{
+    border-color: #90b749;
+  }
+}
+
+a {
+  color: #90b749;
+  &:hover{
+    color: #779E30;
   }
 }
 
@@ -52,20 +79,20 @@ html, body {
 
 #pattern{
   margin: 50px 0;
-  padding: 25px 0;
+  padding: 75px 0;
   position: relative;
   &:after{
-    content: "";
-    background-image: url(/images/pattern.png);
-    opacity: 0.2;
+content: "";
+    background: #f5f5f5;
+    /* opacity: 0.75; */
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
     position: absolute;
     z-index: -1;
-    border-top: 1px solid #333;
-    border-bottom: 1px solid #333;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 5px solid #90b749;
   }
   p{
     margin: 0;
@@ -73,9 +100,22 @@ html, body {
 }
 
 #page-footer{
-  background-color: $greenlab-green;
-  #map{
+  background-color: #f5f5f5;
+  border-top: 5px solid #90b749;
+  .leaflet-container{
     height: 350px !important;
+  }
+  .credits{
+    background: #555;
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid #454545;
+    margin-bottom: 0;
+    color: white;
+    margin: auto;
+    a{
+      color: #ccc;
+    }
   }
 }
 

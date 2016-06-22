@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Coworking
 ---
-Comme nous l&#8217;avons annoncé sur [notre page Facebook][1] il y a quelques jours, nos statuts sont déposés, **Greenlab Coworking est officiellement une ASBL** ! 
+Comme nous l'avons annoncé sur [notre page Facebook][1] il y a quelques jours, nos statuts sont déposés, **Greenlab Coworking est officiellement une ASBL** !
 
 <div id="fb-root">
 </div>
@@ -21,8 +21,8 @@ Comme nous l&#8217;avons annoncé sur [notre page Facebook][1] il y a quelques j
   </div>
 </div>
 
-Ceci étant fait, nous pouvons désormais nous consacrer à notre objectif suivant : ouvrir notre espace de coworking le plus rapidement possible. 
+Ceci étant fait, nous pouvons désormais nous consacrer à notre objectif suivant : ouvrir notre espace de coworking le plus rapidement possible.
 
-Nous travaillons actuellement à l&#8217;obtention d&#8217;un local en plein centre-ville, plus de nouvelles très bientôt à ce sujet !
+Nous travaillons actuellement à l'obtention d'un local en plein centre-ville, plus de nouvelles très bientôt à ce sujet !
 
  [1]: https://www.facebook.com/GreenlabCoworkingArlon

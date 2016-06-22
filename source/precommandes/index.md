@@ -7,9 +7,9 @@ Du 15 janvier au 19 février 2015, nous avons participé à une [opération de 
 
 Durant cette période, nous proposions à tous nos supporters différents &#8220;deals&#8221;, dont des journées de coworking en préventes.
 
-Si vous souhaitez nous donner un coup de pouce, nous vous proposons les mêmes offres d&#8217;ici à l&#8217;ouverture de notre espace : soutenez le coworking à Arlon dès maintenant :-)
+Si vous souhaitez nous donner un coup de pouce, nous vous proposons les mêmes offres d'ici à l'ouverture de notre espace : soutenez le coworking à Arlon dès maintenant :-)
 
-Note : le versement de votre participation devra être effectué par virement bancaire. [Prenez contact avec nous ][2]pour plus d&#8217;information
+Note : le versement de votre participation devra être effectué par virement bancaire. [Prenez contact avec nous ][2]pour plus d'information
 
 ### Pour 5 € ou plus
 <span class="num"><i class="icon icon-heart"></i> 19<br /> </span>
@@ -20,7 +20,7 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 </div>
 
@@ -33,11 +33,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Une journée de coworking (valable à partir de la date d&#8217;ouverture de notre espace)
+    Une journée de coworking (valable à partir de la date d'ouverture de notre espace)
   </p>
 </div>
 
@@ -50,7 +50,7 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
@@ -67,11 +67,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Deux journées de coworking (valable à partir de la date d&#8217;ouverture de notre espace)
+    Deux journées de coworking (valable à partir de la date d'ouverture de notre espace)
   </p>
 </div>
 
@@ -84,11 +84,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    3 journées de coworking (valable à partir de la date d&#8217;ouverture de notre espace)
+    3 journées de coworking (valable à partir de la date d'ouverture de notre espace)
   </p>
 
   <p>
@@ -109,11 +109,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    10 journées de coworking (valable à partir de la date d&#8217;ouverture de notre espace)
+    10 journées de coworking (valable à partir de la date d'ouverture de notre espace)
   </p>
 
   <p>
@@ -134,11 +134,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Votre logo au format A4 dans la salle de réunion pendant 1 an&nbsp; (valable à partir de la date d&#8217;ouverture de notre espace)
+    Votre logo au format A4 dans la salle de réunion pendant 1 an&nbsp; (valable à partir de la date d'ouverture de notre espace)
   </p>
 </div>
 
@@ -155,11 +155,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    30 journées de coworking (valable à partir de la date d&#8217;ouverture de notre espace)
+    30 journées de coworking (valable à partir de la date d'ouverture de notre espace)
   </p>
 
   <p>
@@ -180,15 +180,15 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Votre logo au format A4 dans la salle de réunion pendant 1 an&nbsp;&nbsp;(valable à partir de la date d&#8217;ouverture de notre espace)
+    Votre logo au format A4 dans la salle de réunion pendant 1 an&nbsp;&nbsp;(valable à partir de la date d'ouverture de notre espace)
   </p>
 
   <p>
-    Votre logo au format A4 dans le hall d&#8217;entrée pendant 1 an&nbsp;&nbsp;(valable à partir de la date d&#8217;ouverture de notre espace)
+    Votre logo au format A4 dans le hall d'entrée pendant 1 an&nbsp;&nbsp;(valable à partir de la date d'ouverture de notre espace)
   </p>
 </div>
 
@@ -205,11 +205,11 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Une année entière de coworking (valable à partir de la date d&#8217;ouverture de notre espace &#8211; du lundi au vendredi durant les heures de bureau. Cette offre sera automatiquement modifié pour un accès 24/7 si cette offre est un jour proposée)
+    Une année entière de coworking (valable à partir de la date d'ouverture de notre espace &#8211; du lundi au vendredi durant les heures de bureau. Cette offre sera automatiquement modifié pour un accès 24/7 si cette offre est un jour proposée)
   </p>
 
   <p>
@@ -230,15 +230,15 @@ Note : le versement de votre participation devra être effectué par virement ba
   </p>
 
   <p>
-    Invitation à notre soirée d&#8217;inauguration
+    Invitation à notre soirée d'inauguration
   </p>
 
   <p>
-    Votre logo au format A3 dans la salle de réunion pendant 1 an&nbsp;&nbsp;(valable à partir de la date d&#8217;ouverture de notre espace)
+    Votre logo au format A3 dans la salle de réunion pendant 1 an&nbsp;&nbsp;(valable à partir de la date d'ouverture de notre espace)
   </p>
 
   <p>
-    Votre logo au format A3 dans le hall d&#8217;entrée pendant 1 an&nbsp;&nbsp;(valable à partir de la date d&#8217;ouverture de notre espace)
+    Votre logo au format A3 dans le hall d'entrée pendant 1 an&nbsp;&nbsp;(valable à partir de la date d'ouverture de notre espace)
   </p>
 </div>
 

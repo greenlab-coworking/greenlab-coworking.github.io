@@ -27,7 +27,7 @@ Aujourd’hui, 2houses c’est plus de 28.000 familles dans 105 pays pour le bon
 
 ### Inscription <small>(gratuite)</small>
 
-La conférence aura lieu le jeudi 19 juin dès 19h00 à l&#8217;[espace Luxvert][3], rue de l&#8217;Hydrion 113 à **Arlon**
+La conférence aura lieu le jeudi 19 juin dès 19h00 à l'[espace Luxvert][3], rue de l'Hydrion 113 à **Arlon**
 
 <div style="width: 100%; text-align: left;">
   <p>
