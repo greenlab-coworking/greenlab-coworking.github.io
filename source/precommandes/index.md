@@ -1,6 +1,5 @@
 ---
 title: Précommandes
-author: Cédric Bousmanne
 layout: page
 ---
 Du 15 janvier au 19 février 2015, nous avons participé à une [opération de crowdfunding ][1]visant à nous aider à financer les travaux nécessaires à l’ouverture de notre espace de coworking.

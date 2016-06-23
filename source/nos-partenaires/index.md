@@ -1,6 +1,5 @@
 ---
 title: Nos partenaires
-author: Cédric Bousmanne
 layout: page
 ---
 

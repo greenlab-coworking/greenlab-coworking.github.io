@@ -1,6 +1,5 @@
 ---
 title: Nous contacter
-author: Cédric Bousmanne
 layout: page
 ---
 Greenlab Coworking n'est pas encore ouvert. Toutefois, nous adorons recevoir du courrier !
