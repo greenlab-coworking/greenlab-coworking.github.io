@@ -35,6 +35,17 @@ html, body {
   }
 }
 
+#main-nav{
+  min-height: 150px;
+}
+
+nav.navbar.navbar-default{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+}
+
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a{
   background: transparent;
   box-shadow: none;
@@ -60,10 +71,13 @@ a {
   a{
     background-image: url(/images/greenlab.png);
     background-repeat: no-repeat;
-    height: 95px;
-    width: 463px;
+    height: 47px;
+    width: 231px;
     display: block;
     text-indent: -9999em;
+    background-size: contain;
+    bottom: 0px;
+    position: absolute;
   }
 }
 
@@ -136,4 +150,67 @@ content: "";
     left: 0;
     top: 0;
   }
+}
+
+.pricing-table{
+  thead{
+    tr{
+      th{
+        background-color: #90b749;
+        border: 1px solid darken(#90b749, 10%) !important;
+        color: white;
+      }
+    }
+  }
+  td,th{
+    text-align: center;
+  }
+  tr.highlight{
+    background-color: #EFEFEF;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #90b749;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-success {
+   // color: #fff;
+   background-color: #90b749;
+   background-image: none;
+   &:hover{
+    background-color: darken(#90b749, 5%)
+   }
+   // border-color: #4cae4c;
 }

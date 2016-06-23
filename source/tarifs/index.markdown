@@ -13,7 +13,7 @@ footer: true
 
 ### Tarifs coworking
 
-<table class="table table-bordered table-hover table-responsive">
+<table class="table table-bordered table-hover table-responsive pricing-table">
   <thead>
     <tr>
       <th>5 jours par mois</th>
@@ -47,7 +47,7 @@ footer: true
       <td>Première journée offerte</td>
       <td>Première journée offerte</td>
     </tr>
-    <tr>
+    <tr class="highlight">
       <td>80€/mois</td>
       <td>120€/mois</td>
       <td>200€/mois</td>
@@ -63,7 +63,7 @@ N'hésitez pas à [nous contacter](/nous-contacter) pour toute demande d'informa
 
 ### Tarifs salle de réunion / conférence
 
-<table class="table table-bordered table-hover table-responsive">
+<table class="table table-bordered table-hover table-responsive pricing-table">
   <thead>
     <tr>
       <th></th>
