@@ -5,10 +5,13 @@ description: "Essayez gratuitement une journée de coworking à Arlon"
 footer: true
 ---
 
-<div id="mc_embed_signup">
+La meilleure manière d'être convaincu par le coworking, c'est encore de l'essayer. C'est pour cela que nous vous offrons une journée découverte gratuite. L'occasion pour vous de venir découvrir l'espace et les coworkers, sans engagement.
+
+Merci de remplir le formulaire ci-dessous. Un e-mail de confirmation vous sera envoyé par la suite.
+
+<div id="mc_embed_signup" class="mt40">
   <form action="//greenlab-coworking.us3.list-manage.com/subscribe/post?u=6d57fdc41d7833187a7b33a1c&amp;id=ee98ad3a8e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-      <div class="indicates-required mb10"><span class="asterisk">*</span> champs requis</div>
       <div class="mc-field-group form-group">
         <label for="mce-EMAIL">Adresse e-mail  <span class="asterisk">*</span></label>
         <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">

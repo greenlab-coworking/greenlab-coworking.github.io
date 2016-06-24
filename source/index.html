@@ -46,35 +46,11 @@ description: Espace de coworking et bureaux partagés à Arlon, en province de L
         <div class="col-md-4">
           <h3>Newsletter</h3>
           <p>Ne manquez pas nos prochaines activités. Inscrivez-vous maintenant à notre newsletter pour être tenu au courant de notre actualité.</p>
-          <form class="form-horizontal" id="subscribe" action="http://greenlab-coworking.us3.list-manage1.com/subscribe/post?u=6d57fdc41d7833187a7b33a1c&amp;id=85de5f29b6" method="post" target="_blank" onsubmit="if ( subbox1.value == 'Prénom') { subbox1.value = ''; } if ( subbox2.value == 'Nom') { subbox2.value = ''; }" name="Newsletter">
-            <label for="subbox1" class="screenread control-label">Prénom</label>
-            <input type="text" id="subbox1" class="enews-subbox form-control input-md" value="Prénom" onfocus="if ( this.value == 'Prénom') { this.value = ''; }" onblur="if ( this.value == '' ) { this.value = 'Prénom'; }" name="FNAME">
-
-            <label for="subbox2" class="screenread control-label">Nom</label>
-            <input type="text" id="subbox2" class="enews-subbox form-control input-md" value="Nom" onfocus="if ( this.value == 'Nom') { this.value = ''; }" onblur="if ( this.value == '' ) { this.value = 'Nom'; }" name="LNAME">
-
-            <label for="subbox" class="screenread control-label">Adresse e-mail</label>
-            <input type="email" value="Adresse e-mail" id="subbox" class="form-control input-md" onfocus="if ( this.value == 'Adresse e-mail') { this.value = ''; }" onblur="if ( this.value == '' ) { this.value = 'Adresse e-mail'; }" name="EMAIL" required="required">
-            <input type="text" name="b_6d57fdc41d7833187a7b33a1c_85de5f29b6" value="" style="display:none">
-            <br>
-            <input type="submit" value="M'inscrire" id="subbutton" class="btn btn-success">
-          </form>
+          {% include custom/asides/inner/newsletter-form.html %}
         </div>
         <div class="col-md-8">
           <h3>Sur le blog</h3>
-            <ul class="list-unstyled">
-            {% for post in site.posts limit:5 %}
-            {% assign content = post.content %}
-              <li class="clearfix">
-                <article class="post pull-left" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-                  <span class="pull-left mt10 mr10">
-                    {% include post/date.html %}{{ time }}
-                  </span>
-                  <h4 class="entry-title pull-left oneline" itemprop="name headline"><a href="{{ root_url }}{{ post.url }}" itemprop="url">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h2>
-                </article>
-              </li>
-            {% endfor %}
-            </ul>
+            {% include custom/asides/inner/latest-blog-posts.html %}
           </div>
 
       </div>

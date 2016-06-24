@@ -35,8 +35,8 @@ footer: true
     </tr>
     <tr>
       <td>1h de salle de réunion incluse</td>
-      <td>2h de salle de réunion incluse</td>
-      <td>4h de salle de réunion incluse</td>
+      <td>2h de salle de réunion incluses</td>
+      <td>4h de salle de réunion incluses</td>
     </tr>
     <tr>
       <td>Sans engagement</td>
@@ -52,6 +52,11 @@ footer: true
       <td>80€/mois</td>
       <td>120€/mois</td>
       <td>200€/mois</td>
+    </tr>
+    <tr class="transparent">
+      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
+      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
+      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
     </tr>
   </tbody>
 </table>
