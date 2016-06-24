@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Tarifs"
+description: "Tarifs des abonnements de l'espace de coworking d'Arlon"
 comments: false
 sharing: false
 footer: true

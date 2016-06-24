@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Essai gratuit"
+description: "Essayez gratuitement une journée de coworking à Arlon"
 footer: true
 ---
 
