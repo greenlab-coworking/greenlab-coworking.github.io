@@ -5,7 +5,7 @@
   <title>Nous contacter - Greenlab Coworking - Espace de coworking en Province de Luxembourg</title>
   <meta name="author" content="Greenlab Coworking">
 
-  
+  <meta name="description" content="Contactez Greenlab Coworking ASBL">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -23,7 +23,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://greenlab-coworking.github.io/nous-contacter/">
   <meta property="og:title" content="Nous contacter - Greenlab Coworking - Espace de coworking en Province de Luxembourg">
-  
+  <meta property="og:description" content="Contactez Greenlab Coworking ASBL">
 
   <script src="/javascripts/libs/jquery/jquery-2.1.3.min.js"></script>
 
@@ -31,6 +31,7 @@
 <link href="/assets/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 <link href="/stylesheets/font-awesome.min.css" media="screen, projection, print" rel="stylesheet" type="text/css">
+<link href="/stylesheets/bootstrap-datepicker3.min.css" media="screen, projection, print" rel="stylesheet" type="text/css">
 
 <meta name="geo.region" content="BE" />
 <meta name="geo.placename" content="Aubange" />
@@ -175,45 +176,36 @@
         </header>
       
       <div class="entry-content">
-        <p>Greenlab Coworking n'est pas encore ouvert. Toutefois, nous adorons recevoir du courrier !</p>
+        <p>Nous adorons recevoir du courrier !</p>
 
 <p>Vous avez une question à poser ou une idée à suggérer ? Remplissez le formulaire ci-dessous pour nous contacter.</p>
 
-<p><link href='http://www.greenlab-coworking.com/wp-content/plugins/easy-contact-forms/forms/styles/easyform/css/std.css?ver=1.4.9' rel='stylesheet' type='text/css' /></p>
+<p><form action="https://getsimpleform.com/messages?form_api_token=6034f47e9e962b77cb82592f24c8e8ba" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='http://www.greenlab-coworking.com/nous-contacter/merci' />
+  <!-- all your input fields here.... --></p>
 
-<div class='ufo-form' id='ufo-form-id-1'>
-  <noscript>
-  </noscript>
-</div>
+<p>  <label for="email">E-mail</label>
+  <input type='text' class='form-control' name='email' /></p>
 
+<p>  <label for="firstname">Prénom</label>
+  <input type='text' class='form-control' name='firstname' /></p>
+
+<p>  <label for="lastname">Nom</label>
+  <input type='text' class='form-control' name='lastname' /></p>
+
+<p>  <label for="message">Message</label>
+  <textarea class='form-control' name="message"></textarea></p>
+
+<p>  <input type='submit' value='Envoyer' class="btn btn-success btn-lg" />
+</form></p>
 
       </div>
       
         <footer>
-          <p class="meta text-muted">
-            
-  
-
-<span class="glyphicon glyphicon-user"></span> <span class="byline author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">Publié par <span class="fn" itemprop="name">Cédric Bousmanne</span></span>
-
-            
-
-
-
-
-
-
-
-
-
-
-
-            
-          </p>
+          
           
             <div class="sharing">
-  
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://greenlab-coworking.github.io/nous-contacter/index.html" data-via="greenlabcowork" data-counturl="http://greenlab-coworking.github.io/nous-contacter/index.html" >Tweet</a>
   
   
   
@@ -236,6 +228,8 @@
   
   <div id="recent_posts" class="list-group">
     
+    <a class="list-group-item " href="/blog/2016/06/24/hackaton-tulip-partenaire/">Hackaton TULIP (partenaire)</a>
+    
     <a class="list-group-item " href="/coworking/greenlab-la-communaute-en-ligne">Greenlab : la communauté en ligne</a>
     
     <a class="list-group-item " href="/evenements/un-repair-cafe-a-arlon">Un Repair Café à Arlon</a>
@@ -243,8 +237,6 @@
     <a class="list-group-item " href="/entreprendre/le-comptoir-de-la-cigogne-reseaux-sociaux-et-tradition">Le Comptoir de la Cigogne: réseaux sociaux et tradition</a>
     
     <a class="list-group-item " href="/entreprendre/cest-quoi-un-fablab">C&#8217;est quoi, un Fablab?</a>
-    
-    <a class="list-group-item " href="/evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-dorganisation-du-travail">Libramont : séance d&#8217;information sur les nouvelles formes d&#8217;organisation du travail</a>
     
   </div>
 </section>
@@ -283,7 +275,6 @@
       Zone Artisanale<br>
       6700 Arlon (Weyler)<br>
       Lat. : 49.64882 | Lon. : 5.82359<br>
-      <a href="geo:49.64882,5.82359?z=19">[49.64882,5.82359]</a>
     </address>
     <h6>Par e-mail</h6>
     <a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#103;&#114;&#101;&#101;&#110;&#108;&#097;&#098;&#045;&#099;&#111;&#119;&#111;&#114;&#107;&#105;&#110;&#103;&#046;&#099;&#111;&#109;">&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#103;&#114;&#101;&#101;&#110;&#108;&#097;&#098;&#045;&#099;&#111;&#119;&#111;&#114;&#107;&#105;&#110;&#103;&#046;&#099;&#111;&#109;</a>
@@ -304,7 +295,18 @@
 </div>
 
 <script src="//cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<script src="/javascripts/bootstrap-datepicker.js"></script>
+<script src="/javascripts/bootstrap-datepicker.fr.js"></script>
 <script src="/javascripts/application.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-46630064-1', 'greenlab-coworking.com');
+  ga('send', 'pageview');
+</script>
 
 </div>
 
@@ -324,16 +326,6 @@
 
 
 
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
 
 
 <script src="/assets/bootstrap/dist/js/bootstrap.min.js"></script>

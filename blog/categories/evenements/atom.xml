@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : evénements | Greenlab Coworking - Espace de coworking en Province de Luxembourg]]></title>
   <link href="http://greenlab-coworking.github.io/blog/categories/evenements/atom.xml" rel="self"/>
   <link href="http://greenlab-coworking.github.io/"/>
-  <updated>2016-06-23T20:34:44+02:00</updated>
+  <updated>2016-06-24T10:26:57+02:00</updated>
   <id>http://greenlab-coworking.github.io/</id>
   <author>
     <name><![CDATA[Greenlab Coworking]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hackaton TULIP (partenaire)]]></title>
+    <link href="http://greenlab-coworking.github.io/blog/2016/06/24/hackaton-tulip-partenaire/"/>
+    <updated>2016-06-24T10:18:43+02:00</updated>
+    <id>http://greenlab-coworking.github.io/blog/2016/06/24/hackaton-tulip-partenaire</id>
+    <content type="html"><![CDATA[<p>Le Luxembourg Institute of Science and Technology (LIST | <a href="https://twitter.com/LIST_Luxembourg">Twitter</a>) accueille le premier <a href="http://www.list.lu/fr/conference/tulip-hackathon/">TULIP hackathon</a> le 1er avril prochain. Pendant cet événement, vous pourrez expérimenter non seulement une future technologie innovante, les interfaces utilisateurs tangibles, mais aussi le framework open source du LIST, TULIP, qui peut être utilisé pour développer facilement des applications.</p>
+
+<p><img src="/images/TULIP_rgb_319x142px.jpg" alt="TULIP Hackaton Luxembourg" /></p>
+
+<p>Les interfaces utilisateurs tangibles représentent une technologie prometteuse qui permet aux utilisateurs de créer une interaction entre des objets tagués (de presque toute taille, toute forme, et toute composition) avec des informations contenues dans le logiciel. Grâce à cette dimension tangible, les concepteurs d’applications et d’interfaces peuvent tirer le meilleur parti de la capacité innée, naturelle d’interagir avec des objets physiques, concrets. Cette interaction permet de donner du sens, une utilité et un objectif à ces propriétés physiques, comme le positionnement ou l’orientation. Les scientifiques et ingénieurs du LIST explorent et utilisent ce phénomène pour approfondir les recherches dans le domaine de la résolution de problèmes collaborative afin de voir si les gens comprennent plus facilement des problèmes complexes s’ils utilisent une interface environnementale plus riche.</p>
+
+<p>Durant le travail sur leurs objectifs de recherche, les chercheurs ont développé TULIP pour les aider à développer rapidement des applications. Non seulement TULIP permet de développer des prototypes avec moins d’efforts, mais cela offre aussi à la communauté la possibilité de travailler avec JAVA afin d’implémenter leurs applications à un niveau abstrait plutôt que de travailler au niveau matériel.</p>
+
+<p>Durant le hackathon, vous aurez l’opportunité de découvrir l’interface utilisateur tangible et TULIP. Les chercheurs et ingénieurs du LIST vous présenteront les technologies et vous donneront accès à TULIP. Ils vous accompagneront dans le développement d’une application de votre choix afin de vous apprendre à connaître TULIP et de voir votre application prendre vie sur l’une des interfaces utilisateurs tangibles du LIST. Veuillez noter que les échanges se feront uniquement en anglais.</p>
+
+<p><a href="http://www.list.lu/en/conference/tulip-hackathon-a-framework-for-developing-tangible-user-interfaces-applications/">Info et inscriptions</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Un Repair Café à Arlon]]></title>
@@ -153,26 +172,6 @@ Gill est l’heureux papa de Noé, 12 ans. il est séparé depuis 7 ans et a tr�
 </div>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[“Ma vie d’indépendant” &#8211; Reprogrammation]]></title>
-    <link href="http://greenlab-coworking.github.io/evenements/ma-vie-dindependant-reprogrammation"/>
-    <updated>2014-03-24T00:00:00+01:00</updated>
-    <id>http://greenlab-coworking.github.io/evenements/ma-vie-dindependant-reprogrammation</id>
-    <content type="html"><![CDATA[<p>Suite à un léger contretemps, nous sommes au regret de devoir reprogrammer notre prochain événement à la date du <strong>24 avril 2014</strong>.</p>
-
-<p>De plus amples informations suivront dans les prochains jours.</p>
-
-<div style="width: 100%; text-align: left;">
-  </p>
-
-  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;">
-    <a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.fr/r/etckt" target="_blank">Inscription en ligne pour un événement</a><span style="color: #ddd;"> pour </span><a style="color: #ddd; text-decoration: none;" href="https://www.eventbrite.fr/e/billets-conferencedebat-ma-vie-dindependant-10990461767?ref=etckt" target="_blank">Conférence/débat : &#8220;Ma vie d'indépendant&#8221;</a> <span style="color: #ddd;">réalisé par</span> <a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.fr?ref=etckt" target="_blank">Eventbrite</a>
-  </div>
-</div>
 
 ]]></content>
   </entry>
