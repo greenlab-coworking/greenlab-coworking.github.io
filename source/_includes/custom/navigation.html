@@ -36,10 +36,30 @@
             {% if url == link.url or page.layout == link.layout %}
               {% assign current = 'active' %}
             {% endif %}
-
-            <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-              <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
-            </li>
+            {% if link.sublinks %}
+              <li role="presentation" class="dropdown">
+                <a id="{{ link.dropdown_id }}" href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  {{ link.text }}
+                  <span class="caret"></span>
+                </a>
+                <ul id="menu1" class="dropdown-menu" aria-labelledby="{{ link.dropdown_id }}">
+                  {% for link in link.sublinks %}
+                    {% assign current = nil %}
+                    {% assign url = page.url|remove:'index.html' %}
+                    {% if url == link.url or page.layout == link.layout %}
+                      {% assign current = 'active' %}
+                    {% endif %}
+                    <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                      <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+              </li>
+            {% endif %}
           {% endfor %}
           </ul>
           {% if site.simple_search %}

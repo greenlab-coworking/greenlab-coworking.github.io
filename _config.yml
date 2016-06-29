@@ -106,6 +106,15 @@ facebook_like: false
 navigation:
 - text: Accueil
   url: /
+# - text: Services
+#   dropdown_id: services
+#   sublinks:
+#     - text: Coworking
+#       url: /services/coworking
+#     - text: Bureaux partagés
+#       url: /services/bureaux-partages
+#     - text: Salles de conférences
+#       url: /services/location-salle-conference
 - text: Tarifs
   url: /tarifs/
   layout: page
@@ -116,9 +125,6 @@ navigation:
   # layout: project
 - text: Nous contacter
   url: /nous-contacter/
-  # layout: post
-# - text: Archives
-#   url: /blog/archives/
 
 
 category_title_prefix: "Catégorie : "
