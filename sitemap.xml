@@ -84,28 +84,37 @@
     <loc>http://greenlab-coworking.github.io/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://greenlab-coworking.github.io/blog/</loc>
-  </url>
-  <url>
     <loc>http://greenlab-coworking.github.io/</loc>
   </url>
   <url>
-    <loc>http://greenlab-coworking.github.io/tarifs/essai-gratuit/</loc>
+    <loc>http://greenlab-coworking.github.io/blog/</loc>
   </url>
   <url>
-    <loc>http://greenlab-coworking.github.io/tarifs/</loc>
+    <loc>http://greenlab-coworking.github.io/services/location-salle-conference/</loc>
   </url>
   <url>
     <loc>http://greenlab-coworking.github.io/nous-contacter/merci/</loc>
   </url>
   <url>
-    <loc>http://greenlab-coworking.github.io/precommandes/</loc>
+    <loc>http://greenlab-coworking.github.io/services/coworking/</loc>
+  </url>
+  <url>
+    <loc>http://greenlab-coworking.github.io/tarifs/</loc>
+  </url>
+  <url>
+    <loc>http://greenlab-coworking.github.io/tarifs/essai-gratuit/</loc>
+  </url>
+  <url>
+    <loc>http://greenlab-coworking.github.io/services/bureaux-partages/</loc>
   </url>
   <url>
     <loc>http://greenlab-coworking.github.io/nos-partenaires/</loc>
   </url>
   <url>
     <loc>http://greenlab-coworking.github.io/nous-contacter/</loc>
+  </url>
+  <url>
+    <loc>http://greenlab-coworking.github.io/precommandes/</loc>
   </url>
   <url>
     <loc>http://greenlab-coworking.github.io/blog/categories/entreprendre/</loc>
@@ -118,8 +127,5 @@
   </url>
   <url>
     <loc>http://greenlab-coworking.github.io/blog/categories/productivite/</loc>
-  </url>
-  <url>
-    <loc>http://greenlab-coworking.github.io/blog/posts/2/</loc>
   </url>
 </urlset>
