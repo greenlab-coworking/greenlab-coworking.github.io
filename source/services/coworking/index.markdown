@@ -5,7 +5,7 @@ footer: true
 ---
 
 <p class="lead">Le coworking est une façon de partager un espace de travail entre professionnels qui souhaitent travailler dans un environnement qui améliore leur productivité.</p>
-<img class="img-responsive" src="/images/coworking_space_berlin_677.jpg">
+<img class="img-responsive" src="/images/coworking_space_berlin_677.jpg" alt="Espace de coworking">
 
 ### Pourquoi rejoindre une espace de coworking?
 
