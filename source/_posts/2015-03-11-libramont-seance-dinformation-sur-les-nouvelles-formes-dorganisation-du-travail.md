@@ -6,33 +6,29 @@ permalink: /evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-do
 categories:
   - Evénements
 ---
-Ce lundi 30 mars, à Libramont, aura lieu une séance d&#8217;information sur les nouvelles formes d&#8217;organisation du travail.
+Vous êtes nombreux à le savoir depuis plusieurs jours déjà, __Greenlab est désormais ouvert__.
 
-Notre équipe sera présente pour y parler du projet de coworking à Arlon. L&#8217;événement est gratuit, mais l&#8217;inscription est obligatoire.
+Il nous aura fallu pas moins de [18 mois depuis notre campagne de crowdfunding](/coworking/5726-fois-merci-crowdfunding-arlon) pour y parvenir, mais c'est désormais chose faite : nous avons pris possession de nos locaux à Weyler la semaine dernière.
 
-Nous espérons vous y voir nombreux :-)
+![photo-weyler](Greenlab Coworking et bureaux partagés à Arlon)
 
-> Qu&#8217;il s&#8217;agisse de télétravail, de coworking, de télécentres ou d&#8217;usage de technologie pour éviter les déplacements, les nouvelles formes d&#8217;organisation du travail (NFOT) deviennent réalité dans bon nombre d&#8217;entreprises. Véritables atouts de la mobilité des travailleurs, ces solutions méritent plus que jamais d&#8217;être valorisées et connues du plus grand nombre.
+S'il a fallu du temps, ce fut surtout dans un souci de perfection. Petit rappel des faits :
 
-> C&#8217;est dans cet élan que la Cellule Mobilité de l&#8217;Union Wallonne des Entreprises (UWE), l&#8217;Agence du Numérique (ex-AWT) et CoWallonia by Creative Wallonia, le réseau des espaces de coworking wallons, s&#8217;associent pour sensibiliser et informer le plus grand nombre d&#8217;entreprises et d&#8217;institutions aux bénéfices de l&#8217;implémentation des NFOT. En parfaite complémentarité avec le mobility management, ces nouvelles formes d&#8217;organisation du travail s&#8217;imposent de plus en plus pour répondre aux exigences de ces travailleurs parfois appelés &#8220;sans bureau fixe&#8221;.
+* Lors de notre campagne de financement de février 2015 [nous occupions un espace en plein centre-ville, dans l'ancien Hôtel du Nord](/coworking/greenlab-coworking-prendra-ses-quartiers-dans-lancien-hotel-du-nord-a-arlon). Après plusieurs mois passés à tenter de trouver une solution à un problème de sécurité majeure, nous nous sommes rendus à l'évidence : nous étions dans une impasse.
+* Au mois de janvier 2016, nous nous installions à Athus, dans le PED. La ville d'Athus n'était pas notre projet initial, mais nous n'avions pas d'autres opportunités à ce moment-là. Il n'a pas fallu longtemps pour que nous nous ravisions et que nous nous mettions de nouveau à la recherche de locaux à Arlon.
+* Depuis le mois de mars, nous avons visité tout ce qu'il était possible de visiter : espaces commerciaux, entrepôts, maisons ou appartemment à louer. Tout y est passé ou presque.
+* Finalement, au mois de mai de cette année, nous rencontrions les responsables de [La Lorraine](http://www.lalorraine.org/). L'entreprise était à la recherche d'un locataire pour un espace de 400m<sup>2</sup> situés sur le Zoning Artisanal de Weyler.
 
-### Programme
+### Coworking et bureaux partagés à Arlon
 
-  * **12h00** &#8211; Accueil des participants et léger lunch
-  * **12h30** &#8211; Introduction: Mobilité et NFOT (*Cellule Mobilité de l&#8217;UWE*)
-  * **12h40** &#8211; Les nouvelles formes d&#8217;organisation du travail en question (*Agence du Numérique*)
-  * **13h00** &#8211; Témoignages (une entreprise adepte du coworking et une entreprise active en matière de NWoW et de télétravail)
-  * **13h30** &#8211; Questions réponses et networking
-  * **14h00** &#8211; Clôture
+Très vite, la machine s'est mise en place. Les deux dernières années passées à travailler sur ce projet ont fini par payer et nous avons enfin pu nous mettre au travail. Mieux : l'espace que nous louons désormais nous permet, en plus de l'espace de coworking, de proposer des [bureaux partagés à la location](/services/bureaux-partages), chose que nous n'avions pas prévue initialement.
 
-### En pratique
+La demande a très vite suivi, à la fin de la première semaine d'occupation, nos premiers clients emménageaient déjà : [Creative atoms](http://www.creative-atoms.be/), [Challenge]() et [Ludilingua](http://www.ludilingua.be/) travaillent déjà depuis nos bureaux.
 
-Lundi 30 mars 2015 de 12h00 à 14h00 &#8211; CCI du Luxembourg belge
+### Et maintenant?
 
-<address>
-  Grand Rue, 1 à 6800 Libramont-Chevigny
-</address>
+Comme pour tout projet entreprenarial, chaque solution amène son lot de nouveaux défis. Puisque nous avons trouvé un local bien plus grand que ce que nous n'espérions, nous sommes actuellement en manque de mobilier.
 
-[Info & inscriptions][1]{.button}
+Rassurez-vous, une solution est déjà sur les rails et devrait trouver un dénouement rapidement.
 
- [1]: http://www.awt.be/web/wor/nwow_uwe.aspx
+En attendant, faites-vous plaisir et [venez coworker avec nous](/tarifs/essai-gratuit/)!
