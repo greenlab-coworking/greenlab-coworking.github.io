@@ -216,7 +216,14 @@ content: "";
 
 
 
+// Blog
 
+article.post{
+  margin-bottom: 50px;
+  a.read-more{
+    background: white;
+  }
+}
 
 
 
