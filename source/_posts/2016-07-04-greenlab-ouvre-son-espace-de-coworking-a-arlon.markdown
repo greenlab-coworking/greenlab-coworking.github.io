@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greenlab ouvre son espace de coworking à Arlon"
-date: 2016-07-01 20:34:21 +0200
+date: 2016-07-04 20:34:21 +0200
 comments: true
 categories:
   - Coworking
@@ -11,7 +11,7 @@ Vous êtes nombreux à le savoir depuis plusieurs jours déjà, __Greenlab est d
 
 Il nous aura fallu pas moins de [18 mois depuis notre campagne de crowdfunding](/coworking/5726-fois-merci-crowdfunding-arlon) pour y parvenir, mais c'est désormais chose faite : nous avons pris possession de nos locaux à Weyler la semaine dernière.
 
-![photo-weyler](Greenlab Coworking et bureaux partagés à Arlon)
+![Greenlab Coworking et bureaux partagés à Arlon](/images/reception-weyler-coworking.jpg)
 
 S'il a fallu du temps, ce fut surtout dans un souci de perfection. Petit rappel des faits :
 
@@ -24,7 +24,9 @@ S'il a fallu du temps, ce fut surtout dans un souci de perfection. Petit rappel 
 
 Très vite, la machine s'est mise en place. Les deux dernières années passées à travailler sur ce projet ont fini par payer et nous avons enfin pu nous mettre au travail. Mieux : l'espace que nous louons désormais nous permet, en plus de l'espace de coworking, de proposer des [bureaux partagés à la location](/services/bureaux-partages), chose que nous n'avions pas prévue initialement.
 
-La demande a très vite suivi, à la fin de la première semaine d'occupation, nos premiers clients emménageaient déjà : [Creative atoms](http://www.creative-atoms.be/), [Challenge]() et [Ludilingua](http://www.ludilingua.be/) travaillent déjà depuis nos bureaux.
+La demande a très vite suivi, à la fin de la première semaine d'occupation, nos premiers clients emménageaient déjà : [Creative atoms](http://www.creative-atoms.be/), [Challenge](http://www.challengeonline.be/) et [Ludilingua](http://www.ludilingua.be/) travaillent déjà depuis nos bureaux.
+
+![Creative atoms installe ses bureaux chez Greenlab](/images/bureau-arlon-coworking.jpg)
 
 ### Et maintenant?
 
