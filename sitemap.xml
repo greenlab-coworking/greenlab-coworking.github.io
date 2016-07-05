@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.greenlab-coworking.com/blog/2016/07/04/greenlab-ouvre-son-espace-de-coworking-a-arlon/</loc>
+    <lastmod>2016-07-04T20:34:21+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.greenlab-coworking.com/blog/2016/06/24/hackaton-tulip-partenaire/</loc>
     <lastmod>2016-06-24T10:18:43+02:00</lastmod>
   </url>
@@ -127,8 +131,5 @@
   </url>
   <url>
     <loc>http://www.greenlab-coworking.com/blog/categories/productivite/</loc>
-  </url>
-  <url>
-    <loc>http://www.greenlab-coworking.com/blog/posts/2/</loc>
   </url>
 </urlset>

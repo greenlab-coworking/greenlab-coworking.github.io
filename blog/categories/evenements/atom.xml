@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : evénements | Greenlab Coworking - Espace de coworking en Province de Luxembourg]]></title>
-  <link href="http://greenlab-coworking.github.io/blog/categories/evenements/atom.xml" rel="self"/>
-  <link href="http://greenlab-coworking.github.io/"/>
-  <updated>2016-06-30T09:08:08+02:00</updated>
-  <id>http://greenlab-coworking.github.io/</id>
+  <link href="http://www.greenlab-coworking.com/blog/categories/evenements/atom.xml" rel="self"/>
+  <link href="http://www.greenlab-coworking.com/"/>
+  <updated>2016-07-05T08:31:37+02:00</updated>
+  <id>http://www.greenlab-coworking.com/</id>
   <author>
     <name><![CDATA[Greenlab Coworking]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hackaton TULIP (partenaire)]]></title>
-    <link href="http://greenlab-coworking.github.io/blog/2016/06/24/hackaton-tulip-partenaire/"/>
+    <link href="http://www.greenlab-coworking.com/blog/2016/06/24/hackaton-tulip-partenaire/"/>
     <updated>2016-06-24T10:18:43+02:00</updated>
-    <id>http://greenlab-coworking.github.io/blog/2016/06/24/hackaton-tulip-partenaire</id>
+    <id>http://www.greenlab-coworking.com/blog/2016/06/24/hackaton-tulip-partenaire</id>
     <content type="html"><![CDATA[<p>Le Luxembourg Institute of Science and Technology (LIST | <a href="https://twitter.com/LIST_Luxembourg">Twitter</a>) accueille le premier <a href="http://www.list.lu/fr/conference/tulip-hackathon/">TULIP hackathon</a> le 1er avril prochain. Pendant cet événement, vous pourrez expérimenter non seulement une future technologie innovante, les interfaces utilisateurs tangibles, mais aussi le framework open source du LIST, TULIP, qui peut être utilisé pour développer facilement des applications.</p>
 
 <p><img src="/images/TULIP_rgb_319x142px.jpg" alt="TULIP Hackaton Luxembourg" /></p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Un Repair Café à Arlon]]></title>
-    <link href="http://greenlab-coworking.github.io/evenements/un-repair-cafe-a-arlon"/>
+    <link href="http://www.greenlab-coworking.com/evenements/un-repair-cafe-a-arlon"/>
     <updated>2015-03-24T00:00:00+01:00</updated>
-    <id>http://greenlab-coworking.github.io/evenements/un-repair-cafe-a-arlon</id>
+    <id>http://www.greenlab-coworking.com/evenements/un-repair-cafe-a-arlon</id>
     <content type="html"><![CDATA[<p>Le 17 mai 2015, aura lieu, de 9h. à 12h., le premier Repair Café arlonais, résultat d'une collaboration entre quatre associations : 6&#215;7 ASBL, CLACK ASBL, Greenlab coworking ASBL, la Maison des Associations et du Volontariat. Dans ce cadre, les organisateurs recherchent des bénévoles motivés !</p>
 
 <!--more-->
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Libramont : séance d&#8217;information sur les nouvelles formes d&#8217;organisation du travail]]></title>
-    <link href="http://greenlab-coworking.github.io/evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-dorganisation-du-travail"/>
+    <link href="http://www.greenlab-coworking.com/evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-dorganisation-du-travail"/>
     <updated>2015-03-11T00:00:00+01:00</updated>
-    <id>http://greenlab-coworking.github.io/evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-dorganisation-du-travail</id>
+    <id>http://www.greenlab-coworking.com/evenements/libramont-seance-dinformation-sur-les-nouvelles-formes-dorganisation-du-travail</id>
     <content type="html"><![CDATA[<p>Ce lundi 30 mars, à Libramont, aura lieu une séance d&#8217;information sur les nouvelles formes d&#8217;organisation du travail.</p>
 
 <p>Notre équipe sera présente pour y parler du projet de coworking à Arlon. L&#8217;événement est gratuit, mais l&#8217;inscription est obligatoire.</p>
@@ -100,9 +100,9 @@
   
   <entry>
     <title type="html"><![CDATA[Coworking Meetup Arlon #2]]></title>
-    <link href="http://greenlab-coworking.github.io/evenements/coworking-meetup-arlon-2"/>
+    <link href="http://www.greenlab-coworking.com/evenements/coworking-meetup-arlon-2"/>
     <updated>2015-02-02T00:00:00+01:00</updated>
-    <id>http://greenlab-coworking.github.io/evenements/coworking-meetup-arlon-2</id>
+    <id>http://www.greenlab-coworking.com/evenements/coworking-meetup-arlon-2</id>
     <content type="html"><![CDATA[<p>Il y a un an, nous vous invitions au premier Coworking Meetup à Arlon : nous y avons rencontré des personnes intéressées par le coworking en Province de Luxembourg et beaucoup d’idées ont été échangées.</p>
 
 <p>Aujourd’hui, le projet est devenu une réalité : la Ville d’Arlon nous a mis à disposition <strong>un local de 120 m2 en plein centre-ville</strong>, dans l’ancien Hôtel du Nord.</p>
@@ -138,22 +138,22 @@
   
   <entry>
     <title type="html"><![CDATA[Ma start-up dans l’informatique]]></title>
-    <link href="http://greenlab-coworking.github.io/evenements/ma-start-up-dans-linformatique"/>
+    <link href="http://www.greenlab-coworking.com/evenements/ma-start-up-dans-linformatique"/>
     <updated>2014-05-12T00:00:00+02:00</updated>
-    <id>http://greenlab-coworking.github.io/evenements/ma-start-up-dans-linformatique</id>
+    <id>http://www.greenlab-coworking.com/evenements/ma-start-up-dans-linformatique</id>
     <content type="html"><![CDATA[<p>Pour finir la saison des cafés numériques, nous avons été invités par le <a href="http://www.cafenumerique.org/arlon/">Café Numérique Arlon</a> à co-organiser la dernière conférence de cette saison ce jeudi 19 juin.</p>
 
 <p>À cette occasion, deux entrepreneurs viendront présenter leur startup.</p>
 
 <h3>Olivier Verdin <small>(<a href="https://www.apptweak.com/">AppTweak</a>)</small></h3>
 
-<p><img class="size-thumbnail wp-image-120 alignleft" alt="Olivier Verdin" src="http://greenlab-coworking.github.io/images/2014/05/114f727-150x150.jpg" width="150" height="150" data-wp-pid="120" /></p>
+<p><img class="size-thumbnail wp-image-120 alignleft" alt="Olivier Verdin" src="http://www.greenlab-coworking.com/images/2014/05/114f727-150x150.jpg" width="150" height="150" data-wp-pid="120" /></p>
 
 <p>Olivier est coach en entrepreneuriat auprès de la Solvay Business School (ULB) depuis 2007. Après avoir participé au lancement de plusieurs start-ups (Shopigram, 87seconds, OpenHR), il se lance, avec Sébastien Dellis, dans le développement d’Apptweak en 2011. Apptweak est une plateforme SaaS qui présente un ensemble de conseils marketing aux développeurs d’applications mobiles afin d’augmenter le nombre de téléchargements organiques de leur application dans Google Play et l’App Store d’Apple.</p>
 
 <h3>Gill Ruidant <small>(<a href="https://www.2houses.com/">2houses.com</a>)</small></h3>
 
-<p><a href="/images/2014/05/gill-1.jpg"><img class="alignleft size-thumbnail wp-image-121" alt="Gill Ruidant" src="http://greenlab-coworking.github.io/images/2014/05/gill-1-150x150.jpg" width="150" height="150" data-wp-pid="121" /></a>
+<p><a href="/images/2014/05/gill-1.jpg"><img class="alignleft size-thumbnail wp-image-121" alt="Gill Ruidant" src="http://www.greenlab-coworking.com/images/2014/05/gill-1-150x150.jpg" width="150" height="150" data-wp-pid="121" /></a>
 Gill est l’heureux papa de Noé, 12 ans. il est séparé depuis 7 ans et a très vite ressenti le besoin de communiquer autrement avec la maman de Noé, pour leur bien-être à tous les trois. Les outils disponibles n’étant pas en adéquation avec ses attentes, il a décidé de développer 2houses en 2011. L’outil permet entre autres de gérer le calendrier de garde, garder trace des dépenses partagées et échanger les informations scolaires et médicales d’une manière neutre et positive.</p>
 
 <p>Aujourd’hui, 2houses c’est plus de 28.000 familles dans 105 pays pour le bonheur de plus de 35.000 enfants.</p>
