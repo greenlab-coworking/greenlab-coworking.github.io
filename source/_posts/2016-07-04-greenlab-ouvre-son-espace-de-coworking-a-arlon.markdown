@@ -22,7 +22,7 @@ S'il a fallu du temps, ce fut surtout dans un souci de perfection. Petit rappel 
 
 ### Coworking et bureaux partagés à Arlon
 
-Très vite, la machine s'est mise en place. Les deux dernières années passées à travailler sur ce projet ont fini par payer et nous avons enfin pu nous mettre au travail. Mieux : l'espace que nous louons désormais nous permet, en plus de l'espace de coworking, de proposer des [bureaux partagés à la location](/services/bureaux-partages), chose que nous n'avions pas prévue initialement.
+Très vite, la machine s'est mise en place. Les deux dernières années passées à travailler sur ce projet ont fini par payer et nous avons enfin pu nous mettre au travail. Mieux : l'espace que nous louons désormais nous permet, en plus de l'espace de coworking, de proposer des bureaux partagés à la location, chose que nous n'avions pas prévue initialement.
 
 La demande a très vite suivi, à la fin de la première semaine d'occupation, nos premiers clients emménageaient déjà : [Creative atoms](http://www.creative-atoms.be/), [Challenge](http://www.challengeonline.be/) et [Ludilingua](http://www.ludilingua.be/) travaillent déjà depuis nos bureaux.
 
