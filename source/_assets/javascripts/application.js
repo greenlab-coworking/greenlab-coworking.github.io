@@ -7,13 +7,7 @@ getNextBusinessDay = function(today){
   return tomorrow;
 }
 
-$( document ).ready(function() {
-
-  // *** --- *** //
-  // Map
-  // *** --- *** //
-
-
+buildMap = function() {
   // Create the map
   var map = L.map('map').setView([49.64882,5.82359], 11);
 
@@ -37,6 +31,17 @@ $( document ).ready(function() {
   });
 
   L.marker([49.64882,5.82359], {icon: greenIcon}).addTo(map);
+}
+
+$( document ).ready(function() {
+
+  // *** --- *** //
+  // Map
+  // *** --- *** //
+
+  L.Icon.Default.imagePath = '/images/'
+  setTimeout(buildMap, 200);
+
 
   // *** --- *** //
   // Date Picker

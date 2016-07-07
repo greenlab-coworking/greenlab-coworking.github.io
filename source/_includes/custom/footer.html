@@ -25,10 +25,14 @@
   </div>
 </div>
 
-<script src="//cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-<script src="/javascripts/bootstrap-datepicker.js"></script>
-<script src="/javascripts/bootstrap-datepicker.fr.js"></script>
-<script src="/javascripts/application.js"></script>
+{% javascript_asset_tag global %}
+  - /_assets/javascripts/jquery-2.1.3.min.js
+  - /_assets/javascripts/modernizr.js
+  - /_assets/javascripts/bootstrap-datepicker.js
+  - /_assets/javascripts/bootstrap-datepicker.fr.js
+  - /_assets/javascripts/leaflet.js
+  - /_assets/javascripts/application.js
+{% endjavascript_asset_tag %}
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
