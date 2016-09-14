@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : evénements | Greenlab Coworking - Espace de coworking en Province de Luxembourg]]></title>
   <link href="http://www.greenlab-coworking.com/blog/categories/evenements/atom.xml" rel="self"/>
   <link href="http://www.greenlab-coworking.com/"/>
-  <updated>2016-09-13T14:38:02+02:00</updated>
+  <updated>2016-09-14T21:51:28+02:00</updated>
   <id>http://www.greenlab-coworking.com/</id>
   <author>
     <name><![CDATA[Greenlab Coworking]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Make A Robot]]></title>
+    <link href="http://www.greenlab-coworking.com/blog/2016/09/14/make-a-robot/"/>
+    <updated>2016-09-14T21:45:58+02:00</updated>
+    <id>http://www.greenlab-coworking.com/blog/2016/09/14/make-a-robot</id>
+    <content type="html"><![CDATA[<p>Le 24 septembre, dans nos locaux, le <a href="http://green-hub.be/">Green Hub</a> propose un workshop pour découvrir, assembler, programmer votre propre robot !</p>
+
+<p><img src="/images/18-768x512.jpg" alt="18-768x512.jpg" /></p>
+
+<p>Petit plus, il vous sera possible d'acquérir le robot pour l'emporter chez vous.</p>
+
+<p><a href="http://green-hub.be/evenements/workshop-make-a-roboy/">Info &amp; inscriptions</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hackaton TULIP (partenaire)]]></title>
@@ -132,46 +147,6 @@
     <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr/r/etckt">Gestion d'un événement</a><span style="color:#ddd;"> pour </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.fr/e/billets-coworking-meetup-arlon-15596598847?ref=etckt">Coworking Meetup Arlon</a> <span style="color:#ddd;">réalisé par</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.fr?ref=etckt">Eventbrite</a>
   </div>
 </div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ma start-up dans l’informatique]]></title>
-    <link href="http://www.greenlab-coworking.com/evenements/ma-start-up-dans-linformatique"/>
-    <updated>2014-05-12T00:00:00+02:00</updated>
-    <id>http://www.greenlab-coworking.com/evenements/ma-start-up-dans-linformatique</id>
-    <content type="html"><![CDATA[<p>Pour finir la saison des cafés numériques, nous avons été invités par le <a href="http://www.cafenumerique.org/arlon/">Café Numérique Arlon</a> à co-organiser la dernière conférence de cette saison ce jeudi 19 juin.</p>
-
-<p>À cette occasion, deux entrepreneurs viendront présenter leur startup.</p>
-
-<h3>Olivier Verdin <small>(<a href="https://www.apptweak.com/">AppTweak</a>)</small></h3>
-
-<p><img class="size-thumbnail wp-image-120 alignleft" alt="Olivier Verdin" src="http://www.greenlab-coworking.com/images/2014/05/114f727-150x150.jpg" width="150" height="150" data-wp-pid="120" /></p>
-
-<p>Olivier est coach en entrepreneuriat auprès de la Solvay Business School (ULB) depuis 2007. Après avoir participé au lancement de plusieurs start-ups (Shopigram, 87seconds, OpenHR), il se lance, avec Sébastien Dellis, dans le développement d’Apptweak en 2011. Apptweak est une plateforme SaaS qui présente un ensemble de conseils marketing aux développeurs d’applications mobiles afin d’augmenter le nombre de téléchargements organiques de leur application dans Google Play et l’App Store d’Apple.</p>
-
-<h3>Gill Ruidant <small>(<a href="https://www.2houses.com/">2houses.com</a>)</small></h3>
-
-<p><a href="/images/2014/05/gill-1.jpg"><img class="alignleft size-thumbnail wp-image-121" alt="Gill Ruidant" src="http://www.greenlab-coworking.com/images/2014/05/gill-1-150x150.jpg" width="150" height="150" data-wp-pid="121" /></a>
-Gill est l’heureux papa de Noé, 12 ans. il est séparé depuis 7 ans et a très vite ressenti le besoin de communiquer autrement avec la maman de Noé, pour leur bien-être à tous les trois. Les outils disponibles n’étant pas en adéquation avec ses attentes, il a décidé de développer 2houses en 2011. L’outil permet entre autres de gérer le calendrier de garde, garder trace des dépenses partagées et échanger les informations scolaires et médicales d’une manière neutre et positive.</p>
-
-<p>Aujourd’hui, 2houses c’est plus de 28.000 familles dans 105 pays pour le bonheur de plus de 35.000 enfants.</p>
-
-<h3>Inscription <small>(gratuite)</small></h3>
-
-<p>La conférence aura lieu le jeudi 19 juin dès 19h00 à l'<a href="http://www.luxvert.be/">espace Luxvert</a>, rue de l'Hydrion 113 à <strong>Arlon</strong></p>
-
-<div style="width: 100%; text-align: left;">
-  <p>
-  </p>
-
-  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;">
-    <a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.fr/r/etckt" target="_blank">Inscription en ligne à un événement</a><span style="color: #ddd;"> pour </span><a style="color: #ddd; text-decoration: none;" href="https://www.eventbrite.fr/e/billets-les-start-ups-dans-les-nouvelles-technologies-11536785837?ref=etckt" target="_blank">Les start-ups dans les nouvelles technologies</a> <span style="color: #ddd;">réalisé par</span> <a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.fr?ref=etckt" target="_blank">Eventbrite</a>
-  </div>
-</div>
-
-
 
 ]]></content>
   </entry>
