@@ -73,29 +73,21 @@ N'hésitez pas à [nous contacter](/nous-contacter) pour toute demande d'informa
   <thead>
     <tr>
       <th></th>
-      <th>2h</th>
-      <th>4h</th>
-      <th>8h</th>
+      <th>1/2 journée</th>
+      <th>1 journée</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>Petite salle (20m<sup>2</sup>)</th>
-      <td>30€</td>
-      <td>45€</td>
-      <td>75€</td>
-    </tr>
-    <tr>
-      <th>Petite salle (25m<sup>2</sup>)</th>
+      <th>Petite salle <small>(4 - 6 personnes)</small></th>
       <td>40€</td>
-      <td>55€</td>
-      <td>90€</td>
+      <td>60€</td>
     </tr>
     <tr>
-      <th>Grande salle (38m<sup>2</sup>)</th>
+    <tr>
+      <th>Grande salle <small>(12 - 15 personnes)</small></th>
       <td>60€</td>
-      <td>85€</td>
-      <td>140€</td>
+      <td>95€</td>
     </tr>
   </tbody>
 </table>
