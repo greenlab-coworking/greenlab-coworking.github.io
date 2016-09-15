@@ -24,14 +24,10 @@ footer: true
   </thead>
   <tbody>
     <tr>
-      <td>Wi-Fi</td>
-      <td>Wi-Fi</td>
-      <td>Wi-Fi</td>
+      <td colspan="3">Wi-Fi</td>
     </tr>
     <tr>
-      <td>Café et thé offert</td>
-      <td>Café et thé offert</td>
-      <td>Café et thé offert</td>
+      <td colspan="3">Café et thé offert</td>
     </tr>
     <tr>
       <td>1h de salle de réunion incluse</td>
@@ -39,14 +35,10 @@ footer: true
       <td>4h de salle de réunion incluses</td>
     </tr>
     <tr>
-      <td>Sans engagement</td>
-      <td>Sans engagement</td>
-      <td>Sans engagement</td>
+      <td colspan="3">Sans engagement</td>
     </tr>
     <tr>
-      <td>Première journée offerte</td>
-      <td>Première journée offerte</td>
-      <td>Première journée offerte</td>
+      <td colspan="3">Première journée offerte</td>
     </tr>
     <tr class="highlight">
       <td>80€/mois</td>
