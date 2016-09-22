@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.greenlab-coworking.com/blog/2016/09/19/la-semaine-du-coworking-2016/</loc>
+<lastmod>2016-09-19T12:22:08+02:00</lastmod>
+</url>
+<url>
 <loc>http://www.greenlab-coworking.com/blog/2016/09/14/make-a-robot/</loc>
 <lastmod>2016-09-14T21:45:58+02:00</lastmod>
 </url>
@@ -135,11 +139,5 @@
 </url>
 <url>
 <loc>http://www.greenlab-coworking.com/blog/categories/productivite/</loc>
-</url>
-<url>
-<loc>http://www.greenlab-coworking.com/blog/posts/2/</loc>
-</url>
-<url>
-<loc>http://www.greenlab-coworking.com/blog/posts/3/</loc>
 </url>
 </urlset>
