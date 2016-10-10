@@ -29,3 +29,11 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#90b749 ">
 <meta name="msapplication-TileColor" content="#da532c ">
 <meta name="theme-color" content="#ffffff ">
+{% if post.og_picture %}
+  <meta property="og:image" content="http://www.greenlab-coworking.com/{{ post.og_picture }}" />
+  <meta name="twitter:image" content="http://www.greenlab-coworking.com/{{ post.og_picture }}"/>
+{% endif %}
+{% if page.og_picture %}
+  <meta property="og:image" content="http://www.greenlab-coworking.com/{{ page.og_picture }}" />
+  <meta name="twitter:image" content="http://www.greenlab-coworking.com/{{ page.og_picture }}"/>
+{% endif %}

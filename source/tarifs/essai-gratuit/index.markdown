@@ -3,6 +3,7 @@ layout: page
 title: "Essai gratuit"
 description: "Essayez gratuitement une journée de coworking à Arlon"
 footer: true
+og_picture: images/essai-gratuit.png
 ---
 
 La meilleure manière d'être convaincu par le coworking, c'est encore de l'essayer. C'est pour cela que nous vous offrons une journée découverte gratuite. L'occasion pour vous de venir découvrir l'espace et les coworkers, sans engagement.
