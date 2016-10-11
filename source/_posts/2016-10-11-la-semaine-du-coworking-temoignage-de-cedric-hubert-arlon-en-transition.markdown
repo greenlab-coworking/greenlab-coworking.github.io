@@ -4,6 +4,8 @@ title: "La semaine du Coworking : Témoignage de Cédric Hubert (Arlon en transi
 date: 2016-10-11 13:49:54 +0200
 comments: true
 categories: 
+  - Coworking
+  - Semaine du Coworking 2016
 og_picture: /images/cedric-hubert.png
 ---
 
