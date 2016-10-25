@@ -41,3 +41,18 @@
   <meta property="og:image:height" content="627" />
   <meta name="twitter:image" content="http://www.greenlab-coworking.com/{{ page.og_picture }}"/>
 {% endif %}
+
+{% if post.og_title %}
+  <meta property="og:title" content="{{ post.og_title }}" />
+{% endif %}
+{% if page.og_title %}
+  <meta property="og:title" content="{{ page.og_title }}" />
+{% endif %}
+{% if post.og_description %}
+  <meta property="og:description" content="{{ post.og_description }}" />
+{% endif %}
+{% if page.og_description %}
+  <meta property="og:description" content="{{ page.og_description }}" />
+{% endif %}
+
+<meta property="og:locale" content="fr_BE" />
