@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.greenlab-coworking.com/blog/2016/11/28/les-coworkers-pauline-conseillere-a-la-creation-dentreprise-chez-challenge/</loc>
+<lastmod>2016-11-28T12:24:21+01:00</lastmod>
+</url>
+<url>
 <loc>http://www.greenlab-coworking.com/blog/2016/10/25/la-semaine-du-coworking-temoignage-de-bastien-soret-endorfin/</loc>
 <lastmod>2016-10-25T08:54:35+02:00</lastmod>
 </url>
@@ -150,5 +154,8 @@
 </url>
 <url>
 <loc>http://www.greenlab-coworking.com/blog/categories/semaine-du-coworking-2016/</loc>
+</url>
+<url>
+<loc>http://www.greenlab-coworking.com/blog/categories/presentation-des-coworkers/</loc>
 </url>
 </urlset>
