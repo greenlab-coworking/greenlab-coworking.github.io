@@ -118,6 +118,9 @@ navigation:
 - text: Tarifs
   url: /tarifs/
   layout: page
+- text: Frontaliers
+  url: /frontaliers/
+  layout: page
 - text: Blog
   url: /blog/
 - text: Nos partenaires
