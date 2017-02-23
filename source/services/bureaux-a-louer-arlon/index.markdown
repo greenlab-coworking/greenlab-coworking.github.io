@@ -9,10 +9,11 @@ sidebar: false
 description: "Bureaux à louer à Arlon - Greenlab Coworking propose des bureaux partagés et un bureau tremplin à destination des starters"
 ---
 
+
 <div id="offices">
 
   <div class="lead">
-    <p>En plus du coworking, Greenlab propose deux bureaux partagés et un bureau tremplin à louer.</p>
+    <p>Le <a href="/services/coworking">coworking</a> ne convient pas à tout le monde, c'est pourquoi Greenlab propose deux bureaux partagés et un bureau tremplin à louer.</p>
     <p>Les bureaux partagés se réservent à la journée, tandis que le bureau tremplin est proposé à la location mensuelle.</p>
     <p>N'hésitez pas à <a href="/nous-contacter">nous contacter</a> pour plus d'information.</p>
 
@@ -86,3 +87,5 @@ description: "Bureaux à louer à Arlon - Greenlab Coworking propose des bureaux
   </div>
 
 </div>
+
+{% include services/navigation.html %}

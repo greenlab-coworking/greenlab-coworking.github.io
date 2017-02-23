@@ -13,80 +13,18 @@ sidebar: false
 
 <br>
 
-### Tarifs coworking
+### Tarifs [coworking](/services/coworking)
 
-<table class="table table-bordered table-hover table-responsive pricing-table">
-  <thead>
-    <tr>
-      <th>Illimité</th>
-      <th>10 jours par mois</th>
-      <th>5 jours par mois</th>
-      <th>A la journée</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="4">Wi-Fi</td>
-    </tr>
-    <tr>
-      <td colspan="4">Café et thé offert</td>
-    </tr>
-    <tr>
-      <td>4h de salle de réunion</td>
-      <td>2h de salle de réunion</td>
-      <td>1h de salle de réunion</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td colspan="4">Sans engagement</td>
-    </tr>
-    <tr>
-      <td colspan="4">Première journée offerte</td>
-    </tr>
-    <tr class="highlight">
-      <td>200€/mois</td>
-      <td>120€/mois</td>
-      <td>80€/mois</td>
-      <td>20€</td>
-    </tr>
-    <tr class="transparent">
-      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
-      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
-      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
-      <td><a href="/tarifs/essai-gratuit/" class="btn btn-success btn-sm">Démarrer mon essai gratuit</a></td>
-    </tr>
-  </tbody>
-</table>
+{% include pricing/coworking.html %}
 
-### Tarifs bureaux partagés
+### Tarifs [bureaux partagés](/services/bureaux-a-louer-arlon)
 
 Greenlab Coworking propose plusieurs bureaux partagés à louer à la journée ou au mois.
 
 N'hésitez pas à [nous contacter](/nous-contacter) pour toute demande d'information.
 
-### Tarifs salle de réunion / conférence
+### Tarifs [salle de réunion / conférence](/services/location-salle-conference)
 
-<table class="table table-bordered table-hover table-responsive pricing-table">
-  <thead>
-    <tr>
-      <th></th>
-      <th>1/2 journée</th>
-      <th>1 journée</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Petite salle <small>(4 - 6 personnes)</small></th>
-      <td>40€</td>
-      <td>60€</td>
-    </tr>
-    <tr>
-    <tr>
-      <th>Grande salle <small>(12 - 15 personnes)</small></th>
-      <td>60€</td>
-      <td>95€</td>
-    </tr>
-  </tbody>
-</table>
+{% include pricing/meeting.html %}
 
 D'autres locaux peuvent également être disponibles à la demande. N'hésitez pas à [nous contacter](/nous-contacter) pour toute information complémentaire.

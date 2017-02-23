@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Espace de coworking"
-footer: true
+sidebar: false
+description: "Co-création et partage d'espace de travail à Arlon"
 ---
 
 <p class="lead">Le coworking est une façon de partager un espace de travail entre professionnels qui souhaitent travailler dans un environnement qui améliore leur productivité.</p>
@@ -30,3 +31,7 @@ Le coworking n'est pas réservé aux indépendants : les travailleurs salariés 
 ### Convaincu?
 
 Oui? Non? La meilleure manière de le savoir est d'essayer; c'est pourquoi nous vos offrons votre [première journée de coworking gratuitement](/tarifs/essai-gratuit/). Venez nous rejoindre!
+
+{% include pricing/coworking.html %}
+
+{% include services/navigation.html %}
