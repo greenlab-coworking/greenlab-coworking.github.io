@@ -477,3 +477,77 @@
 	background: #fff;
 	border: 1px solid #666;
 	}
+
+
+#offices{
+}
+
+#offices .row{
+	margin-bottom: 20px;
+}
+
+#offices span.price{
+	font-weight: bolder;
+	color: #333;
+}
+
+#offices em.discreet{
+	font-size: 0.8em;
+}
+
+#offices ul.availabilities{
+	list-style: none;
+	padding-left: 0;
+	margin: 10px 0 20px;
+}
+
+#offices ul.availabilities li{
+	display: inline-block;
+	position: relative;
+	width: 70px;
+	margin-right: 10px;
+}
+
+#offices ul.availabilities li span.occupied,
+#offices ul.availabilities li span.free{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+	border-radius: 5px;
+	float: right;
+}
+
+#offices ul.availabilities li span.occupied span.text,
+#offices ul.availabilities li span.free span.text{
+	display: block;
+	text-indent: -9999em;
+}
+
+#offices ul.availabilities li span.occupied{
+	background: #e20000	;
+}
+
+#offices ul.availabilities li span.free{
+	background: #007500;
+}
+
+#offices ul.availabilities li span:after{
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  display: block;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: bolder;
+  line-height: 20px;
+}
+
+#offices ul.availabilities li span.occupied:after{
+	content: "x";
+}
+
+#offices ul.availabilities li span.free:after{
+	content: "v";
+}

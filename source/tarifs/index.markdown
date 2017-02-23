@@ -5,6 +5,7 @@ description: "Tarifs des abonnements de l'espace de coworking d'Arlon"
 comments: false
 sharing: false
 footer: true
+sidebar: false
 ---
 
 * Greenlab Coworking ASBL n'est pas assujetie à la TVA

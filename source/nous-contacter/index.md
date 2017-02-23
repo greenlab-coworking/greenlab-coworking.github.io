@@ -2,6 +2,7 @@
 title: Nous contacter
 layout: page
 description: "Contactez Greenlab Coworking ASBL"
+sidebar: false
 ---
 Nous adorons recevoir du courrier !
 
@@ -22,7 +23,7 @@ Vous avez une question à poser ou une idée à suggérer ? Remplissez le formul
   <input type='text' class='form-control' name='lastname' />
 
   <label for="message">Message</label>
-  <textarea class='form-control' name="message"></textarea>
+  <textarea class='form-control' name="message" rows="10"></textarea>
 
 
   <input type='submit' value='Envoyer' class="btn btn-success btn-lg" />
