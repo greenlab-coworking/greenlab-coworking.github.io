@@ -24,6 +24,7 @@ C’est un service de proximité ;
 Au départ, il visait plutôt les particuliers, pour qu’ils n’aient pas besoin de préparer le petit déjeuner le matin, et en même temps j’ai l’occasion de faire découvrir des produits de la région.
 A présent, je développe ça jusque dans les sociétés. Et je prépare aussi des sandwiches artisanaux.
 
+<!--more-->
 
 ![Nicolas Huaux (Au p'tit déj')](/images/nicolas-huaux-2.png)
 
