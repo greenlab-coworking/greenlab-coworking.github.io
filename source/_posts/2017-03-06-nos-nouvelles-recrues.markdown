@@ -10,6 +10,8 @@ og_picture: /images/stagiaires-coworking-frontalier-arlon-og.jpg
 og_title: "Nos nouvelles recrues - Deux sympathiques stagiaires viennent d'arriver dans nos locaux"
 description: "Pour les prochaines semaines, nous accueillons 2 stagiaires pour renforcer notre équipe : Nicolas travaillera sur la dimension transfrontalière de notre espace et Fanny se concentrera sur la communication et les réseaux sociaux."
 og_description: "Durant les prochaines semaines, Greenlab Coworking accueillera deux stagiaires qui viendront renforcer notre équipe : Nicolas travaillera sur la dimension transfrontalière de notre espace et Fanny se concentrera sur la communication et les réseaux sociaux."
+author: "Fanny Mathelin"
+
 ---
 
 Aujourd’hui Greenlab accueille **deux nouveaux arrivants**, deux jeunes stagiaires qui travailleront avec nous pendant les quelques semaines à venir.
