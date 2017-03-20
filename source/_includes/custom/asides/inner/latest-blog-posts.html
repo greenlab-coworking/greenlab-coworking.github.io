@@ -4,7 +4,18 @@
   <li class="clearfix">
     <article class="post pull-left" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
       <span class="pull-left mt10 mr10">
-        {% include post/date.html %}{{ time }}
+        {% capture date %}{{ post.date }}{% endcapture %}
+        {% capture date_formatted %}{% if post.date %}{{ post.date | date: site.date_format }}{% endif %}{% endcapture %}
+        {% capture has_date %}{{ date | size }}{% endcapture %}
+
+        {% capture updated %}{{ page.updated }}{{ post.updated }}{% endcapture %}
+        {% capture updated_formatted %}{% if page.updated %}{{ page.updated | date: site.date_format }}{% endif %}{% if post.updated %}{{ post.updated | date: site.date_format }}{% endif %}{% endcapture %}
+        {% capture was_updated %}{{ updated | size }}{% endcapture %}
+
+        {% if has_date != '0' %}
+        <span class="glyphicon glyphicon-calendar"></span> <time datetime="{{ date | datetime | date_to_xmlschema }}" {% if updated %} data-updated="true"{% endif %} itemprop="datePublished dateCreated">{{ date_formatted }}</time>
+        {% endif %}
+
       </span>
       <h5 class="entry-title pull-left" itemprop="name headline"><a href="{{ root_url }}{{ post.url }}" itemprop="url">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h5>
     </article>
