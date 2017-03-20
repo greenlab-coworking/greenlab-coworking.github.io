@@ -18,7 +18,7 @@ J’ai commencé par faire des études en hôtellerie pour ensuite travailler da
 Après ça, j’ai eu l’occasion de partir 2 ans en Australie, et c’est là-bas que m’est venu l’idée du concept de « Au p’tit dej’ ».
 J’ai donc lancé mon projet sur Arlon pendant un petit moment. Pour ensuite finir dans les locaux de Greenlab, où je suis depuis maintenant deux semaines.
 
-###Peux-tu nous expliquer en quoi consiste « Au p’tit dej’ » ? 
+###Peux-tu nous expliquer en quoi consiste « [Au p’tit dej’](http://auptitdej.be/auptitdej/) » ? 
 
 C’est un service de proximité ; 
 Au départ, il visait plutôt les particuliers, pour qu’ils n’aient pas besoin de préparer le petit déjeuner le matin, et en même temps j’ai l’occasion de faire découvrir des produits de la région.
