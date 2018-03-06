@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/gdpr-pragmatisme-et-sensibilisation.md
 hide_body: false
 fields:
 - type: text
