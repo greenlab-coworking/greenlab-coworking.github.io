@@ -6,7 +6,7 @@ date: 2018-03-06 00:00:00 +0000
 author: Marie
 og_title: 'GDPR : pragmatisme et sensibilisation'
 og_pictureog_picture: "/uploads/2018/03/06/Formation GDPR _.png"
-og_description: Le GDPR entre prochainement en vigueur, kezako ?
+og_description: 'Le GDPR entre prochainement en vigueur : quelles conséquences ?'
 categories: []
 ---
 Le **25 mai** arrive à grand pas, dans 80 jours au moment où ces lignes sont écrites et avec lui l'entrée en vigueur de la n**ouvelle règlementation sur la protection des données**. Destinées à permettre aux individus d'avoir plus de contrôles sur leurs données personnelles, le GDPR impactera toutes les entreprises. 
