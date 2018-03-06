@@ -9,6 +9,8 @@ og_pictureog_picture: "/uploads/2018/03/06/Formation GDPR _.png"
 og_description: Le GDPR entre prochainement en vigueur, kezako ?
 categories: []
 ---
-Le 25 mai arrive à grand pas, dans 80 jours au moment où ces lignes sont écrites et avec lui l'entrée en vigueur de la nouvelle règlementation Destinées à permettre aux individus d'avoir plus de contrôles sur leurs données personnelles, le GDPR impactera toutes les entreprises. 
+Le **25 mai** arrive à grand pas, dans 80 jours au moment où ces lignes sont écrites et avec lui l'entrée en vigueur de la n**ouvelle règlementation sur la protection des données**. Destinées à permettre aux individus d'avoir plus de contrôles sur leurs données personnelles, le GDPR impactera toutes les entreprises. 
 
-Mais quels seront les impacts du RGPD ? Comment faire pour 
+Mais quels seront les impacts du RGPD sur la vie des entreprises ? Comment faire pour être en règle d'ici là ? Quelles conséquences pour les entreprises qui ne seront pas prêtes ? 
+
+Au cours d'une **journée de formation** et via des exemples concrets, Monsieur Christian Derauw de la [GDPR Agency](https://gdpr.agency/) vous permettra d'acquérir les clés pour appréhender au mieux le RGPD. 
