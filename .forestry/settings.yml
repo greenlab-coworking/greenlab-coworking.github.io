@@ -1,6 +1,6 @@
 ---
-upload_path: "/sources/images/:year:/:month:/:day:"
-frontmatter_file_url_template: "/sources/images/:year:/:month:/:day:"
+upload_path: "/source/images/:year:/:month:/:day:"
+frontmatter_file_url_template: "/source/images/:year:/:month:/:day:"
 body_file_url_template: "/images/:year:/:month:/:day:"
 new_page_extension: md
 auto_deploy: true
