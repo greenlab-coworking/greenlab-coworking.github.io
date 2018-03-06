@@ -19,4 +19,4 @@ Christian Derauw est cofondateur de la GDPR Agency. Actifs en Belgique et en Fra
 
 Pour vous inscrire, c'est par [ici](https://www.eventbrite.fr/e/billets-gdpr-pragmatisme-et-sensibilisation-43313090620) et si vous avez la moindre question, n'hésitez pas à nous contacter par [là](http://www.greenlab-coworking.com/nous-contacter/).
 
-![](/public/images/2018/03/06/Formation GDPR _.png)
+![](/images/2018/03/06/Formation GDPR _.png)
