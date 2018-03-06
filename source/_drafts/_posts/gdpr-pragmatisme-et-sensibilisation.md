@@ -9,7 +9,7 @@ og_pictureog_picture: "/uploads/2018/03/06/Formation GDPR _.png"
 og_description: 'Le GDPR : quelles conséquences ?'
 categories: []
 ---
-Le **25 mai** arrive à grand pas et avec lui, l'entrée en vigueur de la **nouvelle règlementation sur la protection des données**. Destiné à permettre aux gens d'avoir plus de contrôle sur leurs données personnelles, le GDPR impactera toutes les entreprises. 
+Le **25 mai** arrive à grand pas et avec lui, l'entrée en vigueur de la **nouvelle règlementation sur la protection des données**. Destiné à permettre aux gens d'avoir plus de contrôle sur leurs données personnelles, le **GDPR** impactera toutes les entreprises. 
 
 Mais quels seront les impacts du RGPD sur la vie des entreprises ? Comment faire pour être en règle d'ici là ? Quelles conséquences pour les entreprises qui ne seront pas prêtes ? 
 
