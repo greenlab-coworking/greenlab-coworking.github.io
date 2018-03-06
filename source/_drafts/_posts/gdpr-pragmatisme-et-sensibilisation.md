@@ -18,3 +18,5 @@ Au cours d'une **journée de formation** et grâce à des exemples concrets, Mon
 Christian Derauw est cofondateur de la GDPR Agency. Actifs en Belgique et en France, ils couvrent tous les aspects du GDPR : administratifs, juridiques,... En plus des formations, ils proposent un service de DPO externe ainsi qu'un soutien pour les entreprises qui décident d'opter pour un DPO interne. 
 
 Pour vous inscrire, c'est par [ici](https://www.eventbrite.fr/e/billets-gdpr-pragmatisme-et-sensibilisation-43313090620) et si vous avez la moindre question, n'hésitez pas à nous contacter par [là](http://www.greenlab-coworking.com/nous-contacter/) ou par téléphone au [+32 63 46 00 34](+3263460034)  
+
+![](/uploads/2018/03/06/Formation GDPR _.png)
