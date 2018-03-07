@@ -7,7 +7,8 @@ author: Marie
 og_title: 'GDPR : pragmatisme et sensibilisation'
 og_pictureog_picture: "/uploads/2018/03/06/Formation GDPR _.png"
 og_description: 'Le GDPR : quelles conséquences ?'
-categories: []
+categories:
+- "Événements"
 ---
 Le **25 mai** arrive à grand pas et avec lui, l'entrée en vigueur de la **nouvelle règlementation sur la protection des données**. Destiné à permettre aux gens d'avoir plus de contrôle sur leurs données personnelles, le **GDPR** impactera toutes les entreprises.
 
