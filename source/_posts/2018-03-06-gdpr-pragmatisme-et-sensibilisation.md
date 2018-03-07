@@ -13,6 +13,8 @@ Le **25 mai** arrive à grand pas et avec lui, l'entrée en vigueur de la **nouv
 
 Mais quels seront les impacts du RGPD sur la vie des entreprises ? Comment faire pour être en règle d'ici là ? Quelles conséquences pour les entreprises qui ne seront pas prêtes ?
 
+<!--more-->
+
 Au cours d'une **journée de formation** et grâce à des exemples concrets, Monsieur Christian Derauw de la [GDPR Agency](https://gdpr.agency/) vous permettra d'acquérir les clés pour appréhender au mieux le RGPD et ainsi d'être prêt pour le 25 mai. Cette formation a lieu le **19 mars** **prochain**, dans nos locaux, de **9h à 17h**. Au terme de cette journée de formation, vous recevrez une attestation de présence.
 
 Christian Derauw est cofondateur de la GDPR Agency. Actifs en Belgique et en France, ils couvrent tous les aspects du GDPR : administratifs, juridiques,... En plus des formations, ils proposent un service de DPO externe ainsi qu'un soutien pour les entreprises qui décident d'opter pour un DPO interne.
