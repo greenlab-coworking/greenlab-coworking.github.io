@@ -29,7 +29,7 @@ Pour les entreprises qui ne seront pas prêtes au 25 mai prochain, ce sont des *
 
 Le plus simple sera de former ou d’engager un DPO (data protection officer) interne ou d’avoir recours à des DPO externes spécialisés dans ce domaine.
 
-Si vous êtes concernés, que vous souhaitez en apprendre plus et acquérir les clés pour vous adapter au mieux, il est encore temps de vous inscrire à la formation de ce **19 mars à partir de 9h**. L’inscription s’élève à 225€ et comprend : la journée de formation, le lunch de midi, les boissons tout au long de la journée ainsi qu’une copie de la présentation. 
+Si vous êtes concernés, que vous souhaitez en apprendre plus et acquérir les clés pour vous adapter au mieux, il est encore temps de vous inscrire à la **journée de formation** de ce **19 mars à partir de 9h**. L’inscription s’élève à 225€ et comprend : la journée de formation, le lunch de midi, les boissons tout au long de la journée ainsi qu’une copie de la présentation. 
 
 Pour tout renseignement complémentaire, n'hésitez pas à nous contacter à l'adresse [contact@greenlab-coworking.com](contact@greenlab-coworking.com) ou par téléphone au +32 63 46 00 34. 
 
