@@ -4,8 +4,8 @@ layout: post
 comments: true
 date: 2018-03-13 00:00:00 +0000
 author: Marie
-og_title: Qu'est ce que le GDPR ?
-og_description: GDPR
+og_title: Qu'est-ce que le GDPR ?
+og_description: Qu'est-ce que le GDPR ?
 categories: []
 og_pictureog_picture: ''
 ---
