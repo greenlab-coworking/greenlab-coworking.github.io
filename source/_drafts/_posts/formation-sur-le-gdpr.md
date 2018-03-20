@@ -13,7 +13,7 @@ Hier, lundi 19 mars, a eu lieu notre journée de formation sur le GDPR, celle do
 
 <!--more-->
 
-Animée par monsieur Christian Derauw, de la [GDPR Agency](https://gdpr.agency/), cette formation avait pour but de permettre aux participants d’être sensibilisés et d’appréhender plus sereinement l’entrée en vigueur du GDPR. En effet, de prime abord, cette nouvelle réglementation paraît extrêmement complexe et semble entraîner de nombreux changements pour les entreprises.
+Animée par monsieur Christian Derauw, de la [GDPR Agency](https://gdpr.agency/), cette formation avait pour but de sensibiliser les participants à la problématique et d’appréhender plus sereinement l’entrée en vigueur du GDPR. En effet, de prime abord, cette nouvelle réglementation paraît extrêmement complexe et semble entraîner de nombreux changements pour les entreprises.
 
 Au cours de cette journée, après l’historique des différentes initiatives mises en place concernant la protection des données, nous avons pu être familiarisés avec les termes les plus importants, permettant de comprendre au mieux la suite de la journée. La matinée s’est clôturée avec la présentation des bases légales, concepts importants, composant le GDPR.
 
