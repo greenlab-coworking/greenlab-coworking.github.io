@@ -11,6 +11,8 @@ og_pictureog_picture: ''
 ---
 Hier, lundi 19 mars, a eu lieu notre journée de formation sur le GDPR, celle dont nous vous parlons depuis des semaines. Pour ceux du fond qui n’ont pas suivi ce qu’était le GDPR, vous pourrez trouver un article, publié il y a quelques jours sur notre blog, [par là](http://www.greenlab-coworking.com/blog/2018/03/13/mais-qu-est-ce-que-le-gdpr/). 
 
+<!--more-->
+
 Animée par monsieur Christian Derauw, de la [GDPR Agency](https://gdpr.agency/), cette formation avait pour but de permettre aux participants d’être sensibilisés et d’appréhender plus sereinement l’entrée en vigueur du GDPR. En effet, de prime abord, cette nouvelle réglementation paraît extrêmement complexe et semble entraîner de nombreux changements pour les entreprises.
 
 Au cours de cette journée, après l’historique des différentes initiatives mises en place concernant la protection des données, nous avons pu être familiarisés avec les termes les plus importants, permettant de comprendre au mieux la suite de la journée. La matinée s’est clôturée avec la présentation des bases légales, concepts importants, composant le GDPR.
