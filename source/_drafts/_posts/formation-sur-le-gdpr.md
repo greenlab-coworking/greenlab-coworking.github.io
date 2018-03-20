@@ -9,7 +9,7 @@ og_title: 'GDPR : pragmatisme & sensibilisation - Résumé'
 categories: []
 og_pictureog_picture: ''
 ---
-Hier, lundi 19 mars, a eu lieu notre journée de formation sur le GDPR, celle dont nous vous parlons depuis des semaines. Pour ceux du fond qui n’ont pas suivi ce qu’était le GDPR, vous pourrez trouver un article, publié il y a quelques jours sur notre blog, [par là](http://www.greenlab-coworking.com/blog/2018/03/13/mais-qu-est-ce-que-le-gdpr/). 
+Hier, lundi 19 mars, a eu lieu notre journée de formation sur le GDPR, celle dont nous vous parlons depuis des semaines. Pour ceux du fond qui n’ont pas suivi ce qu’était le GDPR, vous pourrez trouver un article, publié il y a quelques jours, sur notre blog, [par là](http://www.greenlab-coworking.com/blog/2018/03/13/mais-qu-est-ce-que-le-gdpr/). 
 
 <!--more-->
 
