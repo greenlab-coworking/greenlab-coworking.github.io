@@ -15,6 +15,6 @@ Voici donc l'occasion de vous présenter ce que nous proposons, ici, chez Greenl
 
 Pour débuter, nous disposons de deux open spaces lumineux principalement destinés au coworking. Le premier peut accueillir une quinzaine de personnes et le second, un peu plus, soit une vingtaine de personnes. Nous proposons également deux salles de réunions d'une capacité de +/- 15 personnes. De nombreuses activités ont déjà été organisées comme le starter camp de Challenge. En plus de cela, deux petits bureaux fermés sont disponibles à la location. 
 
-Le plus simple est peut-être de regarder la vidéo ! Et si vous lisez ceci avant le 2 mai, il est encore temps de participer à notre concours où vous pouvez tenter de gagner 5 jours de coworking.
+Malgré tout, le plus simple est peut-être de regarder la vidéo qui se trouve par ici : [https://goo.gl/AEgrRZ](https://goo.gl/AEgrRZ "https://goo.gl/AEgrRZ") ! Et si vous lisez ceci avant le 2 mai, il est encore temps de participer à notre concours où vous pouvez tenter de gagner 5 jours de coworking, c'est par ici que ça se passe : [https://goo.gl/j5Vf6X](https://goo.gl/j5Vf6X "https://goo.gl/j5Vf6X").
 
 Et si vous avez la moindre question, n'hésitez pas à nous contacter par mail à l'adresse contact@greenlab-coworking.com ou via les réseaux sociaux (Facebook ou Twitter)
