@@ -13,7 +13,7 @@ Il y a quelques temps, nous avons réalisé un live avec Cowallonia. Ce live nou
 
 Voici donc l'occasion de vous présenter ce que nous proposons, ici, chez Greenlab. 
 
-Pour débuter, nous disposons de deux openspaces lumineux principalement destinés au coworking. 
+Pour débuter, nous disposons de deux open spaces lumineux principalement destinés au coworking. Le premier peut accueillir une quinzaine de personnes et le second, un peu plus, soit une vingtaine de personnes. Nous proposons également deux salles de réunions d'une capacité de +/- 15 personnes. De nombreuses activités ont déjà été organisées comme le starter camp de Challenge 
 
 Le plus simple est peut-être de regarder la vidéo ! Et si vous lisez ceci avant le 2 mai, il est encore temps de participer à notre concours où vous pouvez tenter de gagner 5 jours de coworking. 
 
