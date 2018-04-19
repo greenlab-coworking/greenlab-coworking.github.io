@@ -13,4 +13,6 @@ Il y a quelques temps, nous avons réalisé un live avec Cowallonia. Ce live nou
 
 Voici donc l'occasion de vous présenter ce que nous proposons, ici, chez Greenlab. 
 
+Pour débuter, nous disposons de deux openspaces lumineux principalement destinés au coworking. 
+
 Le plus simple est peut-être de regarder la vidéo ! Et si vous lisez ceci avant le 2 mai, il est encore temps de participer à notre concours où vous pouvez tenter de gagner 5 jours de coworking. 
