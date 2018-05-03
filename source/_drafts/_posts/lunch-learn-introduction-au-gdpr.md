@@ -9,7 +9,7 @@ og_description: Le 15 mai, séance de rattrapage concernant le GDPR
 og_pictureog_picture: "/source/images/2018/05/03/lunch&learn.png"
 categories: []
 ---
-Il y a quelques temps, nous vous proposions une journée de formation sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne donc toutes les structures qui récoltent des informations sur leurs clients, dans le cadre de leurs activités, sans restriction. Durant cette journée, de nombreux aspects du GDPR ont été abordés afin de rendre compréhensible cette réglementation qui paraît si compliquée. 
+Il y a quelques temps, nous vous proposions une journée de formation sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne donc toutes les structures qui récoltent des informations sur leurs clients, dans le cadre de leurs activités. Durant cette journée, différents aspects du GDPR ont été abordés afin de rendre compréhensible cette réglementation qui paraît si compliquée. 
 
 Pour les personnes n’ayant pas pu venir le 19 mars, nous vous proposons une séance de rattrapage. Cette fois, c’est un lunch & learn que nous organisons afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), débutera à 12h et se terminera aux alentours de 13h30. Plusieurs points seront abordés :
 
