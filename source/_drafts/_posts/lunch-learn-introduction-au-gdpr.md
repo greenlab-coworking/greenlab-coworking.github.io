@@ -9,7 +9,7 @@ og_description: Le 15 mai, séance de rattrapage sur le GDPR
 og_pictureog_picture: "/source/images/2018/05/03/lunch&learn.png"
 categories: []
 ---
-Il y a quelques temps, nous vous proposions une [journée de formation](http://www.greenlab-coworking.com/blog/2018/03/20/formation-sur-le-gdpr/) sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne toutes les structures récoltant des informations sur leurs clients, dans le cadre de leur activité. Durant cette journée, différents aspects du GDPR ont été abordés afin de sensibiliser à la problématique et d'aborder son **entrée en vigueur, le 25 mai**, plus sereinement. 
+Il y a quelques temps, nous vous proposions une [journée de formation](http://www.greenlab-coworking.com/blog/2018/03/20/formation-sur-le-gdpr/) sur le **GDPR**. Pour rappel, il s'agit du nouveau règlement général européen sur la protection des données. Elle concerne toutes les structures récoltant des informations sur leurs clients, dans le cadre de leur activité. Durant cette journée, différents aspects du GDPR ont été abordés afin de sensibiliser à la problématique et d'aborder son entrée en vigueur plus sereinement. 
 
 <!--more-->
 
