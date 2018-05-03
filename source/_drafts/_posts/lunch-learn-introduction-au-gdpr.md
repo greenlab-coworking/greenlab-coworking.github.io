@@ -11,6 +11,8 @@ categories: []
 ---
 Il y a quelques temps, nous vous proposions une [journée de formation](http://www.greenlab-coworking.com/blog/2018/03/20/formation-sur-le-gdpr/) sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne toutes les structures récoltant des informations sur leurs clients, dans le cadre de leur activité. Durant cette journée, différents aspects du GDPR ont été abordés afin de sensibiliser à la problématique et d'aborder son **entrée en vigueur, le 25 mai**, plus sereinement. 
 
+<!--more-->
+
 Pour les personnes n’ayant pas pu venir le 19 mars dernier, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
 
 - Contexte du GDPR
