@@ -9,9 +9,9 @@ og_description: Le 15 mai, séance de rattrapage concernant le GDPR
 og_pictureog_picture: "/source/images/2018/05/03/lunch&learn.png"
 categories: []
 ---
-Il y a quelques temps, nous vous proposions une [journée de formation](http://www.greenlab-coworking.com/blog/2018/03/20/formation-sur-le-gdpr/) sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne toutes les structures récoltant des informations sur leurs clients, dans le cadre de leur activité. Durant cette journée, différents aspects du GDPR ont été abordés afin de sensibiliser à la problématique et d'aborder son entrée en vigueur, le 25 mai, plus sereinement. 
+Il y a quelques temps, nous vous proposions une [journée de formation](http://www.greenlab-coworking.com/blog/2018/03/20/formation-sur-le-gdpr/) sur le **GDPR**. Pour rappel, il s'agit de la nouvelle réglementation européenne sur la protection des données. Elle concerne toutes les structures récoltant des informations sur leurs clients, dans le cadre de leur activité. Durant cette journée, différents aspects du GDPR ont été abordés afin de sensibiliser à la problématique et d'aborder son **entrée en vigueur, le 25 mai**, plus sereinement. 
 
-Pour les personnes n’ayant pas pu venir le 19 mars, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
+Pour les personnes n’ayant pas pu venir le 19 mars dernier, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
 
 - Contexte du GDPR
 
@@ -29,6 +29,6 @@ Pour les personnes n’ayant pas pu venir le 19 mars, nous vous proposons une s�
 
 - Registre de traitement
 
-De cette manière, vous pourrez acquérir en peu de temps les bases du GDPR. La participation est entièrement gratuite, il vous suffit simplement de prendre votre repas et de nous rejoindre. En plus de cela, vous pourrez passer la journée avec nous et ainsi tester le coworking. A partir de 9h, venez nous rejoindre avant d’assister à la présentation. 
+De cette manière, vous pourrez acquérir en peu de temps les bases du GDPR. La participation est entièrement **gratuite**, il vous suffit simplement de **prendre votre repas** et de nous rejoindre. En plus de cela, vous pourrez passer la **journée** avec nous et ainsi tester le **coworking gratuitement**. A partir de 9h, venez nous rejoindre avant d’assister à la présentation. 
 
-Pour participer, il vous suffit de vous inscrire via le lien suivant : [https://bit.ly/2FE5VDM](https://bit.ly/2FE5VDM "https://bit.ly/2FE5VDM") et si vous avez la moindre question, n’hésitez pas à nous contacter via les réseaux sociaux ([Facebook](https://www.facebook.com/GreenlabCoworking/) ou [Twitter](https://twitter.com/greenlabcowork?lang=fr)), par mail à l’adresse [contact@greenlab-coworking.com]() ou par téléphone au +32 63 46 00 34 
+Pour participer, il vous suffit de vous inscrire via le lien suivant : [https://bit.ly/2FE5VDM](https://bit.ly/2FE5VDM "https://bit.ly/2FE5VDM") et si vous avez la moindre question, n’hésitez pas à nous contacter via les réseaux sociaux ([Facebook](https://www.facebook.com/GreenlabCoworking/) ou [Twitter](https://twitter.com/greenlabcowork?lang=fr)), par mail à l’adresse [contact@greenlab-coworking.com]() ou par téléphone au +32 63 46 00 34
