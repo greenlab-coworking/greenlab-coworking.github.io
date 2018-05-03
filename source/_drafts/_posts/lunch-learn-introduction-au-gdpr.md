@@ -13,7 +13,7 @@ Il y a quelques temps, nous vous proposions une [journée de formation](http://w
 
 <!--more-->
 
-Pour les personnes n’ayant pas pu venir le 19 mars dernier, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
+Si vous n'avez pas pu y assister, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
 
 - Contexte du GDPR
 
