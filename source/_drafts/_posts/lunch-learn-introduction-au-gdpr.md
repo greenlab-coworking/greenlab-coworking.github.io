@@ -15,21 +15,14 @@ Il y a quelques temps, nous vous proposions une [journée de formation](http://w
 
 Si vous n'avez pas pu y assister, nous vous proposons une séance de rattrapage. Cette fois, c’est un **lunch & learn** que nous organisons le **15 mai** afin de vous permettre de comprendre les bases du GDPR. Cette séance, animée par Anne Bauval, conseillère en protection des données (DPO), **débutera à 12h** et se terminera aux alentours de **13h30**. Plusieurs points seront abordés :
 
-- Contexte du GDPR
-
-- Champ d’application
-
-- Principes Acteurs du GDPR
-
-- Droits de la personne concernée
-
-- Obligations des responsables, sous-traitants,...
-
-- Sécurité et confidentialité
-
-- Gestion des failles
-
-- Registre de traitement
+* Contexte du GDPR
+* Champ d’application
+* Principes Acteurs du GDPR
+* Droits de la personne concernée
+* Obligations des responsables, sous-traitants,...
+* Sécurité et confidentialité
+* Gestion des failles
+* Registre de traitement
 
 De cette manière, vous pourrez acquérir en peu de temps les bases du GDPR. La participation est entièrement **gratuite**, il vous suffit simplement de **prendre votre repas** et de nous rejoindre. En plus de cela, vous pourrez passer la **journée** avec nous et ainsi tester le **coworking gratuitement**. A partir de 9h, venez nous rejoindre avant d’assister à la présentation. 
 
