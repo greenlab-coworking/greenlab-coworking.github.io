@@ -24,12 +24,12 @@ De base, je suis informaticien. J’ai étudié les _computer sciences_ (science
 
 Maintenant, je suis indépendant et je travaille pour moi. Nous créons des logiciels et des business.
 
-![](/images/2018/09/13/Sans titre.png)
-
 **Comment as-tu entendu parler de Greenlab ?**
 
 Il y a deux ans, la dernière fois que je suis venu, je cherchais un endroit pour louer ou sous-louer un bureau afin d’y travailler. J’ai trouvé le site internet. Je crois que c’était tout nouveau à l’époque et Greenlab n’était pas tout à fait prêt. J’avais échangé quelques emails avec Cédric (_un des fondateurs de Greenlab_). Cette année, je me suis souvenu de cela et cette fois, j’ai échangé des mails avec Marie et je suis arrivé ici.
 
 **Qu’est-ce que cela t’apporte ? Selon toi, quels sont les avantages du coworking ?**
 
-Pour moi, c’est un endroit pour travailler, c’est un bureau. Normalement, c’est avec des gens qui font la même chose. C’est bien pour moi, c’est bon pour mon français pour discuter avec les gens qui sont ici et d’avoir les gens autour, c’est plus gai, au lieu d’être tout seul.
+Pour moi, c’est un endroit pour travailler, c’est un bureau. Normalement, c’est avec des gens qui font la même chose. C’est bien pour moi, c’est bon pour mon français pour discuter avec les personnes présentes, c’est plus gai, au lieu d’être tout seul.
+
+![](/images/2018/09/13/_C’est bien pour moi, c’est bon pour mon français pour discuter avec les personnes présentes, c’est plus gai, au lieu d’être tout seul_.png)
