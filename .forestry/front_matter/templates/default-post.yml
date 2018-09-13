@@ -54,7 +54,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/les-coworkers-andrew.md
+- _posts/2018-09-13-les-coworkers-andrew.md
 - _posts/2018-05-03-lunch-learn-introduction-au-gdpr.md
 - _posts/2018-04-20-a-quoi-ressemble-greenlab.md
 - _posts/2018-04-09-travailler-seul-ensemble.md
