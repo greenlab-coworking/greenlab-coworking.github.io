@@ -24,7 +24,7 @@ Maintenant, je suis indépendant et je travaille pour moi. Nous créons des logi
 
 **Comment as-tu entendu parler de Greenlab ?** 
 
-Il y a deux ans, la dernière fois que je suis venu, je cherchais un endroit pour louer ou sous-louer un bureau afin d’y travailler. J’ai trouvé le site internet. Je crois que c’était tout nouveau à l’époque. A ce moment-là, Greenlab n’était pas tout à fait prêt. J’avais échangé quelques emails avec Cédric (_ndlr : un des fondateurs de Greenlab_). Cette année, je me suis souvenu de cela et cette fois, j’ai échangé des mails avec Marie et je suis arrivé ici. 
+Il y a deux ans, la dernière fois que je suis venu, je cherchais un endroit pour louer ou sous-louer un bureau afin d’y travailler. J’ai trouvé le site internet. Je crois que c’était tout nouveau à l’époque et Greenlab n’était pas tout à fait prêt. J’avais échangé quelques emails avec Cédric (_un des fondateurs de Greenlab_). Cette année, je me suis souvenu de cela et cette fois, j’ai échangé des mails avec Marie et je suis arrivé ici. 
 
 **Qu’est-ce que cela t’apporte ? Selon toi, quels sont les avantages du coworking ?** 
 
