@@ -7,7 +7,7 @@ author: Marie
 categories: []
 og_pictureog_picture: ''
 og_title: Les coworkers - Andrew
-og_description: ''
+og_description: Notre nouveau coworker
 
 ---
 **Peux-tu te présenter en quelques mots ?**
