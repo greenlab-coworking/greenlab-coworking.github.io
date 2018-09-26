@@ -16,8 +16,6 @@ Je m’appelle Andrew, je suis entrepreneur et je viens d’Australie où j’ai
 
 Dans ce cadre, je cherchais un endroit pour travailler et j’ai trouvé Greenlab.
 
-<!--more-->
-
 **Peux-tu nous parler de ton parcours et de ton activité professionnelle ?**
 
 De base, je suis informaticien. J’ai étudié les _computer sciences_ (sciences de l’informatique) en Australie. J’ai ensuite travaillé quelques années en Belgique, chez Proximus, en tant que consultant indépendant. Avant ça, j’ai travaillé pour le gouvernement australien.
